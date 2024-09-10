@@ -10,6 +10,7 @@ dist
 
 # Data
 *.tar.gz
+*.zip
 # Other
 .DS_Store
 wandb
