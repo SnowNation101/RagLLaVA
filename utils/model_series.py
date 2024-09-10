@@ -61,7 +61,8 @@ GENERATOR_SERIES = {
         "internvl2-2b": "checkpoints/web/internvl2_2b_1epoch-8batch_size-webqa-noise-injected-lora-merge",
     },
     "mmqa": {
-        "llava": "checkpoints/multimodalqa/llava-v1.5-13b-3epoch-8batch_size-mmqa-noise-injected-lora",
+        # "llava": "checkpoints/multimodalqa/llava-v1.5-13b-3epoch-8batch_size-mmqa-noise-injected-lora",
+        "llava": "/data00/chenghao_zhang/RagLLaVA/checkpoints/multimodalqa/llava-v1.5-13b-1epoch-8batch_size-mmqa-noise-injected-lora",
         "internvl2-2b": "checkpoints/multimodalqa/internvl2_2b_1epoch-16batch_size-mmqa-noise-injected-lora-merge",
         "qwenvl": "checkpoints/qwen-vl-chat-1epoch-2batch_size-mmqa-noise-injected-lora",
     },
@@ -148,7 +149,7 @@ def load_models(args, model_path, device_map="auto"):
 
         tokenizer, model, image_processor, _ = load_pretrained_model(
             model_path=model_path,
-            model_base="liuhaotian/llava-v1.5-13b" if "lora" in model_path else None,
+            model_base="/data00/chenghao_zhang/huggingface/llava-v1.5-13b" if "lora" in model_path else None,
             model_name=get_model_name_from_path(model_path),
             # use_flash_attn=True,
         )

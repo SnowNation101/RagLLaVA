@@ -280,17 +280,17 @@ if __name__ == "__main__":
             args, "mmqa"
         )
 
-    with open("datasets/MMQA_" + args.datasets + "_image.json", "r") as f:
+    with open("/data00/chenghao_zhang/RagLLaVA/datasets/MMQA_" + args.datasets + "_ImageQ.json", "r") as f:
         val_dataset = json.load(f)
 
-    with open("datasets/MMQA_" + args.datasets + "_image_index_to_id.json", "r") as f:
+    with open("/data00/chenghao_zhang/RagLLaVA/datasets/MMQA_" + args.datasets + "_ImageQ_index_to_id.json", "r") as f:
         index_to_image_id = json.load(f)
 
     index = faiss.read_index(
-        "datasets/faiss_index/MMQA_"
+        "/data00/chenghao_zhang/RagLLaVA/datasets/faiss_index/MMQA_"
         + args.datasets
-        + "_image_"
-        + args.clip_type
+        + "_ImageQ"
+        # + args.clip_type
         + ".index"
     )
 
