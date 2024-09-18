@@ -120,6 +120,53 @@ def build_faiss_mmqa(
     return index, index_to_image_id
 
 
+# TODO ！！！！！
+def build_faiss_gaokaomm(val_dataset, device, model, clip_type="clip", preprocess=None):
+    embeddings = []
+    index_to_image_id = {}
+    count = 0
+    for datum in tqdm(val_dataset):
+        pos_img = datum["supporting_context"][0]
+        image_id = pos_img["doc_id"]
+        if image_id in index_to_image_id.values():
+            continue
+        image_path = "../finetune/tasks/MMQA_imgs/" + metadata[image_id]["path"]
+
+        with torch.no_grad():
+            if clip_type == "clip":
+                image = preprocess(Image.open(image_path)).to(device)
+                image_embeddings = model.encode_image(torch.unsqueeze(image, dim=0))
+            elif "bge" in clip_type:
+                image_embeddings = model.encode(image=image_path)
+            else:
+                pixel_values = preprocess(
+                    images=Image.open(image_path).convert("RGB"),
+                    return_tensors="pt",
+                ).pixel_values
+                pixel_values = pixel_values.to(torch.bfloat16).to(device)
+                image_embeddings = model.encode_image(pixel_values, mode=clip_type).to(
+                    torch.float
+                )
+
+        combined_embedding = image_embeddings
+        normalized_embedding = combined_embedding / combined_embedding.norm(
+            dim=-1, keepdim=True
+        )
+        embeddings.append(normalized_embedding.cpu().numpy())
+
+        index_to_image_id[count] = image_id
+        count += 1
+
+    embeddings = np.vstack(embeddings).astype("float32")
+
+    # cosine similarity
+    index = faiss.IndexFlatIP(embeddings.shape[1])
+
+    index.add(embeddings)
+
+    return index, index_to_image_id
+
+
 def build_faiss_flickr30k(
     val_dataset, device, model, clip_type="clip", preprocess=None
 ):
@@ -334,6 +381,10 @@ def clip_retrieval_mmqa(
     return hard_examples
 
 
+def clip_retrieval_gaokaomm():
+    pass
+
+
 def clip_retrieval_flickr30k(
     val_dataset, ind, index_to_image_id, model, args, tokenizer=None
 ):
@@ -478,6 +529,29 @@ if __name__ == "__main__":
         #     clip_type=args.clip_type,
         #     preprocess=preprocess,
         # )
+    
+    elif args.datasets == "GaokaoMM":
+
+        directory = '../datasets'
+
+        val_dataset = []
+
+        import os
+        from glob import glob
+        json_files = glob(os.path.join(directory, '*.json'))
+
+        for json_file in json_files:
+            with open(json_file, 'r', encoding='utf-8') as file:
+                val_dataset.append(json.load(file).get('example', []))
+
+        
+        index, index_to_image_id = build_faiss_gaokaomm(
+            val_dataset,
+            device,
+            model,
+            clip_type=args.clip_type,
+            preprocess=preprocess,
+        )
 
     # faiss.write_index(
     #     index,
@@ -495,6 +569,7 @@ if __name__ == "__main__":
         + args.clip_type
         + ".index"
     )
+    
     with open(
         "../datasets/" + args.datasets + "_test_image_index_to_id.json", "r"
     ) as f:

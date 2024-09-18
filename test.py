@@ -1,2 +1,3 @@
-import spacy
-nlp = spacy.load("en_core_web_sm")
+
+a = "abcdefgji"
+print(a[1:-2])

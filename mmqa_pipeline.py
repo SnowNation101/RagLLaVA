@@ -64,6 +64,7 @@ def clip_rerank_generate(
             for item in pos_imgs:
                 pos_source.append(item["doc_id"])
 
+            # do text to image retrieval
             D, I = text_to_image(
                 question, clip_model, ind, topk, clip_type, clip_tokenizer
             )
@@ -71,6 +72,8 @@ def clip_rerank_generate(
                 img_id = index_to_image_id[str(j)]
                 retrieved_imgs.append(img_id)
 
+            # rerank_off is default set to be false
+            # so this condition is executed by default
             if not rerank_off:
                 for id in retrieved_imgs:
                     img_path = "finetune/tasks/MMQA_imgs/" + metadata[id]["path"]
@@ -90,7 +93,8 @@ def clip_rerank_generate(
                             + question
                             + "\nIs this image relevant to the question? Answer 'Yes' or 'No'."
                         )
-
+                    
+                    # calculate relevence score here
                     prob_yes = cal_relevance(
                         reranker_model_path,
                         img_path,
@@ -101,13 +105,14 @@ def clip_rerank_generate(
                     )
                     rerank_imgs[id] = float(prob_yes)
 
-                ####### MMQA取Top-1, WebQA取Top-2 #######
+                # get reranked dict
+                # top-1 for MMQA, top-2 for WebQA
                 top_sorted_imgs = dict(
                     sorted(rerank_imgs.items(), key=lambda item: item[1], reverse=True)[
                         :1
                     ]
                 )
-
+                # threshold
                 filtered_imgs = [
                     key for key, val in top_sorted_imgs.items() if val >= filter
                 ]
@@ -211,8 +216,9 @@ def clip_rerank_generate(
     print("Retrieval recall:", recall)
     print("Retrieval F1:", f1)
 
+    # rerank_off is default set to be false
+    # so this condition is executed by default
     if not rerank_off:
-
         with open(
             "logs/mmqa/"
             + reranker_model_path.split("/")[-1]
@@ -294,6 +300,7 @@ if __name__ == "__main__":
         + ".index"
     )
 
+    # path to the log file
     save_path = (
         "logs/mmqa/"
         + reranker_model_path.split("/")[1]
