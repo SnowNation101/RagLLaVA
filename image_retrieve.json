@@ -1,0 +1,2372 @@
+{
+    "results": [
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "4. 探究植物细胞的吸水和失水实验是高中学生常做的实验。某同学用紫色洋葱鳞片叶外表皮为材料进行实验, 探究蔗糖溶液, 清水处理外表皮后, 外表皮细胞原生质体和液泡的体积及细胞液浓度的变化。图中所提到的原生质体是指植物细胞不包括细胞壁的部分。下列示意图中能够正确表示实验结果的是 $()$",
+            "picture": [
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_18_0.png",
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_18_1.png",
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_18_2.png",
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_18_3.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】 $\\mathrm{AB}$ 、用 30\\%蔗糖处理之后, 细胞失水, 原生质体和细胞液的体积都会减小, 细胞液浓度上升;用清水处理之后, 细胞吸水, 原生质体和细胞液体积会扩大, 细胞液浓度下降, $\\mathrm{AB}$ 错误。 $\\mathrm{CD}$ 、随着所用蔗糖浓度上升, 当蔗糖浓度超过细胞液浓度之后, 细胞就会开始失水, 原生质体和细胞液体积下降, 细胞液浓度上升, 故 C 正确, D 错误。故选 C。",
+            "index": 18,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_4_0.png",
+                        "distance": 0.8982913494110107
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_3_0.png",
+                        "distance": 0.8982913494110107
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.874107837677002
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8663897514343262
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.8662587404251099
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_4_0.png",
+                        "distance": 0.8871349692344666
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_3_0.png",
+                        "distance": 0.8871349692344666
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.8701357841491699
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.8632826209068298
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8576334714889526
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.9106133580207825
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.9028134346008301
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_4_0.png",
+                        "distance": 0.902764081954956
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_3_0.png",
+                        "distance": 0.902764081954956
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8939949870109558
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.9182078242301941
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.9140862822532654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.896797776222229
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_4_0.png",
+                        "distance": 0.8932852149009705
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_3_0.png",
+                        "distance": 0.8932852149009705
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "3. 植物可通过呼吸代谢途径的改变来适应缺氧环境。在无氧条件下, 某种植物幼苗的根细胞经呼吸作用释放 $\\mathrm{CO}_2$ 的速率随时间的变化趋势如图所示。下列相关叙述错误的是 (  )\nA. 在时间 $\\mathrm{a}$ 之前, 植物根细胞无 $\\mathrm{CO}_2$ 释放, 只进行无氧呼吸产生乳酸\nB. $\\mathrm{a} \\sim \\mathrm{b}$ 时间内植物根细胞存在经无氧呼吸产生酒精和 $\\mathrm{CO}_2$ 的过程\nC. 每分子葡萄糖经无氧呼吸产生酒精时生成的 ATP 比产生乳酸时的多\nD. 植物根细胞无氧呼吸产生的酒精跨膜运输的过程不需要消耗 ATP",
+            "picture": [
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_19_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A、植物进行有氧呼吸或无氧呼吸产生酒精时都有二氧化碳释放, 图示在时间 a 之前, 植物根细胞无 $\\mathrm{CO}_2$ 释放, 分析题意可知, 植物可通过呼吸代谢途径的改变来适应缺氧环境, 据此推知在时间 $\\mathrm{a}$ 之前, 只进行无氧呼吸产生乳酸, A 正确;\nB、 $\\mathrm{a}$ 阶段无二氧化碳产生, $\\mathrm{b}$ 阶段二氧化碳释放较多, $\\mathrm{a} \\sim \\mathrm{b}$ 时间内植物根细胞存在经无氧呼吸产生酒精和 $\\mathrm{CO}_2$ 的过程, 是植物通过呼吸途径改变来适应缺氧环境的体现, $\\mathrm{B}$ 正确;\nC、无论是产生酒精还是产生乳酸的无氧呼吸, 都只在第一阶段释放少量能量, 第二阶段无能量释放, 故每分子葡萄糖经无氧呼吸产生酒精时生成的 ATP 和产生乳酸时相同, C 错误;\nD、酒精跨膜运输方式是自由扩散, 该过程不需要消耗 ATP, D 正确。故选 C。",
+            "index": 19,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_17_0.png",
+                        "distance": 0.9075037837028503
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_13_0.png",
+                        "distance": 0.903610110282898
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_11_0.png",
+                        "distance": 0.899217963218689
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8987754583358765
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.8971862196922302
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "6. 某同学拟用限制酶（酶 1 、酶 2、酶 3 和酶 4)、DNA 连接酶为工具, 将目 基因（两端含相应限制酶的识别序列和切割位点) 和质粒进行切割、连接, 以构建重组表达载体。限制酶的切割位点如图所示。\n下列重组表达载体构建方案合理且效率最高的是 ( )\nA. 质粒和目的基因都用酶 3 切割, 用 $E . c o l i$DNA 连接酶连接\nB. 质粒用酶 3 切割、目的基因用酶 1 切割, 用 T4 DNA 连接酶连接\nC. 质粒和目的基因都用酶 1 和酶 2 切割, 用 T4 DNA 连接酶连接\nD. 质粒和目的基因都用酶 2 和酶 4 切割, 用 $E$. coli DNA 连接酶连接",
+            "picture": [
+                "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_20_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】A、酶 3 切割后得到的是平末端, 应该用 T4 DNA 连接酶连接, A 错误;\nB、质粒用酶 3 切割后得到平末端, 目的基因用酶 1 切割后得到的是黏性末端, 二者不能连接, $B$ 错误;\nC、质粒和目的基因都用酶 1 和酶 2 切割, 得到的黏性末端不互补, 不能连接, C 错误;\nD、酶 2 和酶 4 切割后得到的黏性末端都是 “GATC-”, 可以互补, E. coli DNA 连接酶可以连接黏性末端,故质粒和目的基因都用酶 2 和酶 4 切割, 能用 E. coli$\\cdot$DNA 连接酶连接, D 正确。故选 D。",
+            "index": 20,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_15_0.png",
+                        "distance": 0.8585835695266724
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_2_0.png",
+                        "distance": 0.8251258134841919
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_93_4.png",
+                        "distance": 0.8010496497154236
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.7760807275772095
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_84_0.png",
+                        "distance": 0.7716884016990662
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "7. 图 1、图 2 分别为 1955 1956 年拍摄的动画片《神笔》《骄傲的将军》的剧照, 两部影片融入了中国传统戏曲、诗画等元素, 在世界影坛上独树一帜。这体现出新中国艺术创作 (  )\nA. 探索民族化道路的取向 \nB. 以进入世界市场为主要目标\nC. 摆脱外来艺术形式影响\nD. 服务于对外开放的基本国策",
+            "picture": [
+                "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_32_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】本题是单类型单项选择题。据本题主题干的设问词, 可知这是本质题。据本题时间信息可知准确时空是：1955 1956 年 (中国)。据本题材料 “《神笔》《骄傲的将军》”，“两部影片融入了中国传统戏曲、诗画等元素。” 并结合所学知识可知, 《神笔》取材自中国古老的民间故事一一神笔马良。《骄傲的将军》则从成语“临阵磨枪” 发展而来, 影片采用了中国传统戏曲, 尤其是京剧的许多元素, 这部动画电影被认为是 “中国学派” 的开山之作, 《神笔》和《骄傲的将军》被认为是中国动画民族化探索的先驱作品,所以材料体现出新中国艺术创作探索民族化道路的取向, A 项正确; 1955 1956 年新中国艺术创作的主要目的是探索民族化道路的取向, 不是以进入世界市场为主要目标, 排除 $\\mathrm{B}$ 项; 材料中没有外来艺术形式影响新中国艺术创作的相关论述，排除 C 项; 外\n对外开放的基本国策始于1978年，与材料时间不符，排除D项。故选A项。",
+            "index": 32,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_6_0.png",
+                        "distance": 0.7384101152420044
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_11_3.png",
+                        "distance": 0.7281938791275024
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_28_0.png",
+                        "distance": 0.7277042269706726
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_3_0.png",
+                        "distance": 0.7213139533996582
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_16_0.png",
+                        "distance": 0.719887375831604
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "10. 如图为 1808 年欧洲的一幅时事漫画, 名为 《蛛网里的科西嘉蜘蛛》, 图中心的 “蜘蛛” 代表法国, 左上角的 “苍蝇” 是指英国。该漫画反映的是 (  )\nA. 维也纳体系建立 \nB. 拿破仑战争的局势\nC. 拿破仑帝国的覆灭\nD. 英国推行绥靖政策",
+            "picture": [
+                "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_33_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】本题是单类型单项选择题。据本题主题干的设问词, 可知这是本质题。据本题时间信息可知准确时空是：1808 年 (欧洲)。据本题时间 “1808 年”, “图中心的 “蜘蛛” 代表法国, 左上角的 “苍蝇” 是指英国。” 并结合所学知识可知, 拿破仑战争的发生时间是 1803 年 5 月 13 日-1815 年 11 月 20 日, 漫画《蛛网里的科西嘉蜘蛛》中, 拿破仑被描绘成蛛网中心的一只蜘蛛, 尽管欧洲其他国家大多都被网住, 但是 “约翰牛” 这只大苍蝇（英国）仍旧飞得自由自在。结合所学知识可知, 在拿破仑帝国时期, 法兰西与欧洲发生了连绵数年的大规模战争, 拿破仑大军横扫整个欧洲战场, 迫使英国联合其他欧洲国家结成欧洲同盟，共同对付拿破仑，B 项正确； 1815 年，欧洲各国在维也纳会议及此后签订了一系列条约，建立起以欧洲均势为特征的国际关系体系, 即维也纳体系, 排除 A \n1814 年 4 月 11 日, 拿破仑宣布无条件投降，并于 4 月 13 日在巴黎枫丹白露宫签署退位诏书，法兰西第一帝国灭亡了，排除 C 项; 英国推行“绥靖政策”是在 20 世纪 30 年代, 排除 D 项。故选 B 项。",
+            "index": 33,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_16_0.png",
+                        "distance": 0.6672752499580383
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.6528633832931519
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_33_0.png",
+                        "distance": 0.6522384881973267
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_32_0.png",
+                        "distance": 0.6510121822357178
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_0_0.png",
+                        "distance": 0.6274627447128296
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "3. 执行下面的程序框图, 输出的 $B=()$\nA. 21\nB. 34\nC. 55\nD. 89",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_79_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】当 $n=1$ 时, 判断框条件满足, 第一次执行循环体, $A=1+2=3, B=3+2=5, n=1+1=2$;当 $n=2$ 时, 判断框条件满足, 第二次执行循环体, $A=3+5=8, B=8+5=13, n=2+1=3$;当 $n=3$ 时, 判断框条件满足, 第三次执行循环体, $A=8+13=21, B=21+13=34, n=3+1=4$;当 $n=4$ 时, 判断框条件不满足, 跳出循环体, 输出 $B=34$.故选: B.",
+            "index": 79,
+            "score": 5,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_77_0.png",
+                        "distance": 0.9428850412368774
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_74_0.png",
+                        "distance": 0.9354692697525024
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_1_0.png",
+                        "distance": 0.929963231086731
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_4_0.png",
+                        "distance": 0.9195749759674072
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_30_0.png",
+                        "distance": 0.9186248779296875
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "6. 用可再生能源电还原 $\\mathrm{CO}_2$ 时, 采用高浓度的 $\\mathrm{K}^{+}$抑制酸性电解液中的析氢反应来提高多碳产物(乙烯、乙醇等)的生成率, 装置如下图所示。下列说法正确的是\nA. 析氢反应发生在 $\\mathrm{IrO}_x-\\mathrm{Ti}$ 电极上\nB. $\\mathrm{Cl}^{-}$从 $\\mathrm{Cu}$ 电极迁移到 $\\mathrm{IrO}_x-\\mathrm{Ti}$ 电极\nC. 阴极发生的反应有: $2 \\mathrm{CO}_2+12 \\mathrm{H}^{+}+12 \\mathrm{e}^{-}=\\mathrm{C}_2 \\mathrm{H}_4+4 \\mathrm{H}_2 \\mathrm{O}$\nD. 每转移 $1 \\mathrm{~mol}$ 电子, 阳极生成 $11.2 \\mathrm{~L}$ 气体(标准状况)",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_59_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 析氢反应为还原反应, 应在阴极发生, 即在铜电极上发生, 故 A 错误;\nB. 离子交换膜为质子交换膜, 只允许氢离子通过, $\\mathrm{Cl}^{-}$不能通过, 故 B 错误;\nC. 由分析可知, 铜电极为阴极, 酸性条件下二氧化碳在阴极得到电子发生还原反应生成乙烯、乙醇等, 电极反应式有 $2 \\mathrm{CO}_2+12 \\mathrm{H}^{+}+12 \\mathrm{e}^{-}=\\mathrm{C}_2 \\mathrm{H}_4+4 \\mathrm{H}_2 \\mathrm{O}$, 故 C 正确;\nD. 水在阳极失去电子发生氧化反应生成氧气和氢离子, 电极反应式费 $2 \\mathrm{H}_2 \\mathrm{O}-4 \\mathrm{e}^{--}=\\mathrm{O}_2 \\uparrow+4 \\mathrm{H}^{+}$, 每转移 $1 \\mathrm{~mol}$ 电子, 生成 $0.25 \\mathrm{molO}_2$, 在标况下体积为 $5.6 \\mathrm{~L}$, 故 D 错误;\n答案选 C。",
+            "index": 59,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_23_0.png",
+                        "distance": 0.8728905916213989
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_54_0.png",
+                        "distance": 0.8720059990882874
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_2_0.png",
+                        "distance": 0.8618095517158508
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_9_0.png",
+                        "distance": 0.8533351421356201
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_13_0.png",
+                        "distance": 0.838019609451294
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "3. 下列装置可以用于相应实验的是",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】A. $\\mathrm{Na}_2 \\mathrm{CO}_3$ 固体比较稳定, 受热不易分解, 所以不能采用加热碳酸钠的方式制备二氧化碳, $\\mathrm{A}$ 错误;\nB. 乙醇和乙酸是互溶的, 不能采用分液的方式分离, 应采用蒸馏来分离, B 错误;\nC. 二氧化硫通入品红溶液中, 可以验证其漂白性, 不能验证酸性, C 错误;\nD. 测量氧气体积时, 装置选择量气筒, 测量时要恢复到室温, 量气筒和水准管两边液面高度相等时, 氧气排开水的体积与氧气的体积相等, 即可用如图装置测量氧气的体积, D 正确;故选 D。",
+            "index": 60,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_31_0.png",
+                        "distance": 0.7765319347381592
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_50_0.png",
+                        "distance": 0.7543145418167114
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_37_0.png",
+                        "distance": 0.7520453929901123
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_3.png",
+                        "distance": 0.7386085987091064
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_13_0.png",
+                        "distance": 0.7360364198684692
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_12_0.png",
+                        "distance": 0.8361107707023621
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_47_0.png",
+                        "distance": 0.8222861289978027
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_24_3.png",
+                        "distance": 0.7908929586410522
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.7810890078544617
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_92_0.png",
+                        "distance": 0.7806013822555542
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_3.png",
+                        "distance": 0.8445491194725037
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_4.png",
+                        "distance": 0.8417209386825562
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_31_0.png",
+                        "distance": 0.827925443649292
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_17_0.png",
+                        "distance": 0.8188793659210205
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_26_0.png",
+                        "distance": 0.8181406259536743
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_50_0.png",
+                        "distance": 0.8448997735977173
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_3.png",
+                        "distance": 0.8111395835876465
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_31_0.png",
+                        "distance": 0.8100730180740356
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_47_0.png",
+                        "distance": 0.7981704473495483
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_37_0.png",
+                        "distance": 0.7831624150276184
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "6. 室温钠-硫电池被认为是一种成本低、比能量高的能源存储系统。一种室温钠-硫电池的结构如图所示。将钠箔置于聚苯并咪唑膜上作为一个电极, 表面喷涂有硫黄粉末的炭化纤维素纸作为另一电极。工作时,在硫电极发生反应: $\\frac{1}{2} \\mathrm{~S}_8+\\mathrm{e}^{-} \\rightarrow \\frac{1}{2} \\mathrm{~S}_8^{2-}, \\quad \\frac{1}{2} \\mathrm{~S}_8^{2-}+\\mathrm{e}^{-} \\rightarrow \\mathrm{S}_4^{2-}, 2 \\mathrm{Na}^{+}+\\frac{\\mathrm{X}}{4} \\mathrm{~S}_4^{2-}+2\\left(1-\\frac{\\mathrm{X}}{4}\\right) \\mathrm{e}^{-} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$\n下列叙述错误的是\nA. 充电时 $\\mathrm{Na}^{+}$从钠电极向硫电极迁移\nB. 放电时外电路电子流动的方向是 $\\mathrm{a} \\rightarrow \\mathrm{b}$\nC. 放电时正极反应为: $2 \\mathrm{Na}^{+}+\\frac{x}{8} \\mathrm{~S}_8+2 \\mathrm{e}^{-} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$\nD. 炭化纤维素纸的作用是增强硫电极导电性能",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_61_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】A. 充电时为电解池装置, 阳离子移向阴极, 即钠电极, 故充电时, $\\mathrm{Na}^{+}$由硫电极迁移至钠电极, $\\mathrm{A}$错误;\nB. 放电时 $\\mathrm{Na}$ 在 $\\mathrm{a}$ 电极失去电子, 失去的电子经外电路流向 $\\mathrm{b}$ 电极, 硫黄粉在 $\\mathrm{b}$ 电极上得电子与 $\\mathrm{a}$ 电极释放出的 $\\mathrm{Na}^{+}$结合得到 $\\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$, 电子在外电路的流向为 $\\mathrm{a} \\rightarrow \\mathrm{b}, \\mathrm{B}$ 正确;\nC. 由题给的的一系列方程式相加可以得到放电时正极的反应式为 $2 \\mathrm{Na}^{+}+\\frac{x}{8} \\mathrm{~S}_8+2 \\mathrm{e} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}, \\mathrm{C}$ 正确;\nD. 炭化纤维素纸中含有大量的炭, 炭具有良好的导电性, 可以增强硫电极的导电性能, D 正确;故答案选 A。",
+            "index": 61,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_44_0.png",
+                        "distance": 0.8327869176864624
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_98_0.png",
+                        "distance": 0.8256192207336426
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_97_0.png",
+                        "distance": 0.8256192207336426
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_96_0.png",
+                        "distance": 0.8256192207336426
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_44_0.png",
+                        "distance": 0.8132972717285156
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "7. 一定温度下, $\\mathrm{AgCl}$ 和 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 的沉淀溶解平衡曲线如图所示。\n下列说法正确的是\nA. a 点条件下能生成 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 沉淀, 也能生成 $\\mathrm{AgCl}$ 沉淀\nB. b 点时 $, c\\left(\\mathrm{Cl}^{-}\\right)=c\\left(\\mathrm{CrO}_4^{2-}\\right), K_{\\mathrm{sp}}(\\mathrm{AgCl})=K_{\\mathrm{sp}}\\left(\\mathrm{Ag}_2 \\mathrm{CrO}_4\\right)$\nC. $\\mathrm{Ag}_2 \\mathrm{CrO}_4+2 \\mathrm{Cl}^{-} \\quad 2 \\mathrm{AgCl}+\\mathrm{CrO}_4^{2-}$ 的平衡常数 $K=10^{7.9}$\nD. 向 $\\mathrm{NaCl} 、 \\mathrm{Na}_2 \\mathrm{CrO}_4$ 均为 $0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的混合溶液中滴加 $\\mathrm{AgNO}_3$ 溶液, 先产生 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 沉淀",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_62_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】 A. 假设 a 点坐标为 $(4,6.5)$, 此时分别计算反应的浓度熵 $Q$ 得, $Q(\\mathrm{AgCl})=10^{-10.5}, Q\\left(\\mathrm{Ag}_2 \\mathrm{CrO}_4\\right)=10^{-}$ 17, 二者的浓度熵均小于其对应的溶度积 $K_{\\mathrm{sp}}$, 二者不会生成沉淀, A 错误;\nB. $K_{\\mathrm{sp}}$ 为难溶物的溶度积, 是一种平衡常数, 平衡常数只与温度有关, 与浓度无关, 根据分析可知, 二者的溶度积不相同, B 错误;\nC. 该反应的平衡常数表达式为 $K=\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right)}$, 将表达式转化为与两种难溶物的溶度积有关的式子得 $K=$ $\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right)}=\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right) \\cdot c^2\\left(\\mathrm{Ag}^{+}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right) \\cdot c^2\\left(\\mathrm{Ag}^{+}\\right)}=\\frac{K_{\\mathrm{sp}}\\left(\\mathrm{AgCrO}_4\\right)}{K_{\\mathrm{sp}}^2(\\mathrm{AgCl})}=\\frac{1 \\times 10^{-11.7}}{\\left(1 \\times 10^{-9.8}\\right)^2}=1 \\times 10^{7.9}, \\quad \\mathrm{C}$ 正确;\nD. 向 $\\mathrm{NaCl} 、 \\mathrm{Na}_2 \\mathrm{CrO}_4$ 均为 $0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的混合溶液中滴加 $\\mathrm{AgNO}_3$, 开始沉淀时所需要的 $c\\left(\\mathrm{Ag}^{+}\\right)$分别为 $10^{-8.8}$和 $10^{-5.35}$, 说明此时沉淀 $\\mathrm{Cl}^{-}$需要的银离子浓度更低, 在这种情况下, 先沉淀的是 $\\mathrm{AgCl}, \\mathrm{D}$ 错误;故答案选 C。",
+            "index": 62,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_49_0.png",
+                        "distance": 0.8318309783935547
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_6_0.png",
+                        "distance": 0.8207741379737854
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_11_0.png",
+                        "distance": 0.8053197860717773
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_36_0.png",
+                        "distance": 0.7814206480979919
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_10_0.png",
+                        "distance": 0.7785707712173462
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "3. 一种可吸附甲醇的材料, 其化学式为 $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]_4\\left[\\mathrm{~B}\\left(\\mathrm{OCH}_3\\right)_4\\right]_3 \\mathrm{Cl}$, 部分晶体结构如下图所示, 其中 $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$为平面结构。\n下列说法正确的是\nA. 该晶体中存在 $\\mathrm{N}-\\mathrm{H} \\cdots \\mathrm{O}$ 氢键\nB. 基态原子的第一电离能: $\\mathrm{C}<\\mathrm{N}<\\mathrm{O}$\nC. 基态原子未成对电子数： $\\mathrm{B}<\\mathrm{C}<\\mathrm{O}<\\mathrm{N}$\nD. 晶体中 $\\mathrm{B} 、 \\mathrm{~N}$ 和 $\\mathrm{O}$ 原子轨道的杂化类型相同",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_63_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】 A. 由晶体结构图可知, $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$中的 $-\\mathrm{NH}_2$ 的 $\\mathrm{H}$ 与 $\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中的 $\\mathrm{O}$ 形成氢键, 因此,该晶体中存在 $\\mathrm{N}-\\mathrm{H} \\cdots \\mathrm{O}$ 氢键, $\\mathrm{A}$ 说法正确;\nB. 同一周期元素原子的第一电离能呈递增趋势, 但是第IIA、VA 元素的原子结构比较稳定, 其第一电离能高于同周期的相邻元素的原子, 因此, 基态原子的第一电离能从小到大的顺序为 $\\mathrm{C}<\\mathrm{O}<\\mathrm{N}, \\mathrm{B}$ 说法不正确;\nC. B、C、O、 $\\mathrm{N}$ 的未成对电子数分别为 $1 、 2 、 2 、 3$, 因此, 基态原子未成对电子数 $\\mathrm{B}<\\mathrm{C}=\\mathrm{O}<\\mathrm{N}, \\mathrm{C}$ 说法不正确;\nD. $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$为平面结构, 则其中的 $\\mathrm{C}$ 和 $\\mathrm{N}$ 原子轨道杂化类型均为 $\\mathrm{sp}^2 ;\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中 $\\mathrm{B}$ 与 4 个 $\\mathrm{O}$形成了 4 个 $\\sigma$ 键, $B$ 没有孤电子对, 则 $\\mathrm{B}$ 的原子轨道杂化类型为 $\\mathrm{sp}^3 ;\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中 $\\mathrm{O}$ 分别与 $\\mathrm{B}$ 和 $\\mathrm{C}$形成了 2 个 $\\sigma$ 键, $\\mathrm{O}$ 原子还有 2 个孤电子对, 则 $\\mathrm{O}$ 的原子轨道的杂化类型均为 $\\mathrm{sp}^3$; 综上所述, 晶体中 $\\mathrm{B} 、 \\mathrm{O}$ 和 $\\mathrm{N}$ 原子轨道的杂化类型不相同, $\\mathrm{D}$ 说法不正确;综上所述, 本题选 $\\mathrm{A}$ 。",
+            "index": 63,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_152_0.png",
+                        "distance": 0.79051274061203
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_156_0.png",
+                        "distance": 0.7872412800788879
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_22_0.png",
+                        "distance": 0.7502239942550659
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_18_0.png",
+                        "distance": 0.7497958540916443
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_32_0.png",
+                        "distance": 0.7487845420837402
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "4. 一种以 $\\mathrm{V}_2 \\mathrm{O}_5$ 和 $\\mathrm{Zn}$ 为电极、 $\\mathrm{Zn}\\left(\\mathrm{CF}_3 \\mathrm{SO}_3\\right)_2$ 水溶液为电解质的电池, 其示意图如下所示。放电时, $\\mathrm{Zn}^{2+}$ 可插入 $\\mathrm{V}_2 \\mathrm{O}_5$ 层间形成 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$ 。下列说法错误的是\nA. 放电时 $\\mathrm{V}_2 \\mathrm{O}_5$ 为正极\nB. 放电时 $\\mathrm{Zn}^{2+}$ 由负极向正极迁移\nC. 充电总反应: $x Z n+V_2 O_5+n_2 \\mathrm{O}=\\mathrm{Zn}_x \\mathrm{~V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$\nD. 充电阳极反应: $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}-2 \\mathrm{xe}^{-}=\\mathrm{xZn}^{2+}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_64_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 由题信息可知, 放电时, $\\mathrm{Zn}^{2+}$ 可插入 $\\mathrm{V}_2 \\mathrm{O}_5$ 层间形成 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}, \\mathrm{V}_2 \\mathrm{O}_5$ 发生了还原反应, 则放电时 $\\mathrm{V}_2 \\mathrm{O}_5$ 为正极, $\\mathrm{A}$ 说法正确;\nB. $\\mathrm{Zn}$ 为负极, 放电时 $\\mathrm{Zn}$ 失去电子变为 $\\mathrm{Zn}^{2+}$, 阳离子向正极迁移, 则放电时 $\\mathrm{Zn}^{2+}$ 由负极向正极迁移, $\\underline{\\underline{B}}$说法正确;\nC. 电池在放电时的总反应为 $\\mathrm{xZn}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}=\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$, 则其在充电时的总反应为 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{Ox}=\\mathrm{Zn}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}, \\mathrm{C} \\text {说法不正确;}$\nD. 充电阳极上 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$ 被氧化为 $\\mathrm{V}_2 \\mathrm{O}_5$, 则阳极的电极反应为综上所述, 本题选 C。",
+            "index": 64,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_54_0.png",
+                        "distance": 0.8501946926116943
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_13_0.png",
+                        "distance": 0.8052232265472412
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_2_0.png",
+                        "distance": 0.7952651381492615
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_23_0.png",
+                        "distance": 0.7904860377311707
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_44_0.png",
+                        "distance": 0.783673882484436
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "6. “肼合成酶”以其中的 $\\mathrm{Fe}^{2+}$ 配合物为催化中心, 可将 $\\mathrm{NH}_2 \\mathrm{OH}$ 与 $\\mathrm{NH}_3$ 转化为肼 $\\left(\\mathrm{NH}_2 \\mathrm{NH}_2\\right)$, 其反应历程如下所示。\n下列说法错误的是\nA. $\\mathrm{NH}_2 \\mathrm{OH} 、 \\mathrm{NH}_3$ 和 $\\mathrm{H}_2 \\mathrm{O}$ 均为极性分子\nB. 反应涉及 $\\mathrm{N}-\\mathrm{H} 、 \\mathrm{~N}-\\mathrm{O}$ 键断裂和 $\\mathrm{N}-\\mathrm{N}$ 键生成\nC. 催化中心的 $\\mathrm{Fe}^{2+}$ 被氧化为 $\\mathrm{Fe}^{3+}$, 后又被还原为 $\\mathrm{Fe}^{2+}$\nD. 将 $\\mathrm{NH}_2 \\mathrm{OH}$ 替换为 $\\mathrm{ND}_2 \\mathrm{OD}$, 反应可得 $\\mathrm{ND}_2 \\mathrm{ND}_2$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_65_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 A. $\\mathrm{NH}_2 \\mathrm{OH}, \\mathrm{NH}_3, \\mathrm{H}_2 \\mathrm{O}$ 的电荷分布都不均匀, 不对称, 为极性分子, $\\mathrm{A}$ 正确;\nB. 由反应历程可知, 有 $\\mathrm{N}-\\mathrm{H}, \\mathrm{N}-\\mathrm{O}$ 键断裂, 还有 $\\mathrm{N}-\\mathrm{H}$ 键的生成, B 正确;\nC. 由反应历程可知, 反应过程中, $\\mathrm{Fe}^{2+}$ 先失去电子发生氧化反应生成 $\\mathrm{Fe}^{3+}$, 后面又得到电子生成 $\\mathrm{Fe}^{2+}, \\mathrm{C}$ 正确;\nD. 由反应历程可知, 反应过程中, 生成的 $\\mathrm{NH}_2 \\mathrm{NH}_2$ 有两个氢来源于 $\\mathrm{NH}_3$, 所以将 $\\mathrm{NH}_2 \\mathrm{OH}$ 替换为 $\\mathrm{ND}_2 \\mathrm{OD}$,不可能得到 $\\mathrm{ND}_2 \\mathrm{ND}_2$, 得到 $\\mathrm{ND}_2 \\mathrm{NH}_2$ 和 $\\mathrm{HDO}, \\mathrm{D}$ 错误;故选 D。",
+            "index": 65,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_43_0.png",
+                        "distance": 0.8361590504646301
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_39_0.png",
+                        "distance": 0.8098136186599731
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_3.png",
+                        "distance": 0.7855733633041382
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_32_0.png",
+                        "distance": 0.7854218482971191
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_41_0.png",
+                        "distance": 0.7811151742935181
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "7. 向 $\\mathrm{AgCl}$ 饱和溶液(有足量 $\\mathrm{AgCl}$ 固体)中滴加氨水, 发生反应 $\\mathrm{Ag}^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}$和 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}, \\lg \\left[\\mathrm{c}(\\mathrm{M}) /\\left(\\mathrm{mol} \\cdot \\mathrm{L}^{-1}\\right)\\right]$ 与 $\\lg \\left[\\mathrm{c}\\left(\\mathrm{NH}_3\\right) /\\left(\\mathrm{mol} \\cdot \\mathrm{L}^{-1}\\right)\\right]$ 的关系如下图所示(其中 $\\mathrm{M}$ 代表 $\\mathrm{Ag}^{+} 、 \\mathrm{Cl}^{-} 、\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}$或 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$)。\n下列说法错误的是\nA. 曲线 I 可视为 $\\mathrm{AgCl}$ 溶解度随 $\\mathrm{NH}_3$ 浓度变化曲线\nB. $\\mathrm{AgCl}$ 的溶度积常数 $\\mathrm{K}_{\\mathrm{sp}}=\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right) \\cdot \\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=10^{-9.75}$\nC. 反应 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$平衡常数 $K$ 的值为 $10^{3.81}$\nD. $\\mathrm{c}\\left(\\mathrm{NH}_3\\right)=0.01 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 时, 溶液中 $\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}\\right)>\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}\\right)>\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_66_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】A. 由分析可知, 曲线 I 为二氨合银离子与氨气浓度对数变化 曲线, 可视为氯化银溶解度随 $\\mathrm{NH}_3$ 浓度变化曲线, 故 A 正确;\nB. 由分析可知, 曲线 I、II、III、IV 分别表示二氨合银离子、一氨合银离子、银离子、氯离子与氨气浓度对数变化的曲线, 由图可知, 氨分子浓度小于 $10^{-6} \\mathrm{~mol} / \\mathrm{L}$ 时, 溶液中银离子和氯离子浓度均为 $10^{-}$ ${ }^5 \\mathrm{~mol} / \\mathrm{L}$, 则氯化银的溶度积为 $10^{-5} \\times 10^{-5}=10^{-10}$, 故 B 错误;\nC. 由图可知, 氨分子浓度对数为 -1 时, 溶液中二氨合银离子和一氨合银离子的浓度分别为 $10^{-2,35} \\mathrm{~mol} / \\mathrm{L}$\n和 $10^{-5.16 \\mathrm{~mol} / \\mathrm{L}}$, 则 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$的平衡常数 $K=\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)}=$\n$\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)}=\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)} \\frac{10^{-2,35}}{10^{-5.16} \\times 10^{-1}}=10^{3.81}$, 故 C 正确;\nD. 由分析可知, 曲线 I、II、III、IV 分别表示二氨合银离子、一氨合银离子、银离子、氯离子与氨气浓度对数变化的曲线, 则 $\\mathrm{c}\\left(\\mathrm{NH}_3\\right)=0.01 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 时, 溶液中\n$\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}\\right)>\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}\\right)>\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right)$, 故 D 正确;\n故选 B。",
+            "index": 66,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_41_0.png",
+                        "distance": 0.8565971851348877
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_49_0.png",
+                        "distance": 0.8431012630462646
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_56_0.png",
+                        "distance": 0.8333196640014648
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_33_0.png",
+                        "distance": 0.8234241008758545
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_19_0.png",
+                        "distance": 0.822229266166687
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图显示地中海北岸某地水系分布, (1)(2)(3)(4)为湖泊, 其中(1)(2)(3)分别与入湖河流构成独立水系。研究者在野外考察中发现, (1)(2)(3)南侧高地上均存在谷地, 谷底卵石堆积, 研究表明该地曾发生过水系重组。据此完成下面小题。\n6. 推测(1)(2)(3)的湖泊类型、湖水主要输出方式分别为 (  )\nA. 淡水湖、下渗\nB. 淡水湖、蒸发\nC. 咸水湖, 下渗\nD. 咸水湖、蒸发",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_205_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【6 题详解】\n根据材料 “(1)(2)(3)分别与入湖河流构成独立水系” 可知, 湖水无法通过河道直接流出, 随着盐分不断积累, 形成咸水湖, 该地为地中海北岸, 属于地中海气候, 夏季炎热干燥, 湖水主要输出方式为蒸发, D 正确, 排除 $\\mathrm{ABC}$ 。故选 $\\mathrm{D}$ 。",
+            "index": 205,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_121_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_10_0.png",
+                        "distance": 0.8418400287628174
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_9_0.png",
+                        "distance": 0.8418400287628174
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图显示地中海北岸某地水系分布, (1)(2)(3)(4)为湖泊, 其中(1)(2)(3)分别与入湖河流构成独立水系。研究者在野外考察中发现, (1)(2)(3)南侧高地上均存在谷地, 谷底卵石堆积, 研究表明该地曾发生过水系重组。据此完成下面小题。\n7. 判断(1)(2)(3)南侧谷地$()$\nA. 狭长湖盆\nB. 断流河道\nC. 古冰川槽谷\nD. 泥石流通道",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_206_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【7 题详解】\n结合(4)湖及其所属水系可推测, 原先(1)(2)(3)湖泊及其水系为南部河流的上游河段, 由于南侧地区形成新的分水岭, 湖泊南部河道发生流向改变, 后因无水流汇入, 造成断流, 故 B 正确; 如果是狭长湖盆, 堆积物应该比较细小, 而(1)(2)(3)南侧高地上谷底存在卵石堆积, A 错误; 如果是冰川或泥石流, 则堆积物应该大小不一, 杂乱无章, 故排除 $C D$ 。故选 $\\mathrm{B}$ 。",
+            "index": 206,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_121_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_10_0.png",
+                        "distance": 0.8418400287628174
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_9_0.png",
+                        "distance": 0.8418400287628174
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图显示地中海北岸某地水系分布, (1)(2)(3)(4)为湖泊, 其中(1)(2)(3)分别与入湖河流构成独立水系。研究者在野外考察中发现, (1)(2)(3)南侧高地上均存在谷地, 谷底卵石堆积, 研究表明该地曾发生过水系重组。据此完成下面小题。\n8. 据水系变化推测, $\\mathrm{MN}$ 一线 (  )\nA. 南部抬升, 北部沉降 \nB. 南部沉降, 北部拾升\nC. 褶皱隆起\nD. 褶皱凹陷",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_207_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【8 题详解】\n由上题分析可知, $M N$ 一线形成新的分水岭, 造成(1)(2)(3)湖泊南部河道改向, 故该处应为断裂带, 且 $M N 一$线南部地势相对抬升, 形成分水岭, 北部相对沉降, 造成湖泊南部河道改向, 形成干谷, A 正确, B 错误; 如果发生褶皱, 不会保持原有的水系形态完整, 排除 CD。故选 A。",
+            "index": 207,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_121_0.png",
+                        "distance": 0.8429152965545654
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_10_0.png",
+                        "distance": 0.8418400287628174
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_9_0.png",
+                        "distance": 0.8418400287628174
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图为某区域的典型剖面示意图, 该区域的山坡受流水侵蚀, 谷地持续接受沉积。山坡多生长森林,谷地中草甸广泛发育, 据此完成下面小题。\n9. 奠定该区域地貌基本格局的是 (  )\nA. 冰川作用\nB. 流水作用\nC. 构造运动\nD. 风沙作用",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_208_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【9 题详解】\n该区域的基本地貌表现为地壳挤压形成的褶皱山脉, 故 C 正确; 图中并没有显示冰川作用的痕迹, A 错误; 流水作用形成山谷中的沉积物, 但不是地貌的主要方面, B 错误; 图中植被较为茂密, 风沙作用比较微弱, D 错误。故选 C。",
+            "index": 208,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_186_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_185_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8010182976722717
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.7727541327476501
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.7727541327476501
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图为某区域的典型剖面示意图, 该区域的山坡受流水侵蚀, 谷地持续接受沉积。山坡多生长森林,谷地中草甸广泛发育, 据此完成下面小题。\n10. 导致山坡与谷地植被分异的主要因素是 (  )\nA. 气温\nB. 降水\nC. 土壤温度\nD. 土壤水分",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_209_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "10 题详解】\n从图中可以看出, 山坡地势较高, 而山谷地势较低, 造成地下水水位不一, 谷地中地下水接近地表, 造成土壤中水分较多, 形成沼泽化土壤, 形成草甸植被, 故 $\\mathrm{D}$ 正确; 山坡和山谷气温、土壤温度差异不是造成植被分异的主要因素, $\\mathrm{AC}$ 错误; 山坡和山谷地区降水量差异较小, B 错误。故选 D。",
+            "index": 209,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_186_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_185_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8010182976722717
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.7727541327476501
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.7727541327476501
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "下图为某区域的典型剖面示意图, 该区域的山坡受流水侵蚀, 谷地持续接受沉积。山坡多生长森林,谷地中草甸广泛发育，据此完成下面小题。\n11. 如果地质构造稳定、气候无明显变化, 谷地植被变化趋势为 (  )\nA. 与地带性植被差异缩小，草甸比例上升 \nB. 与地带性植被差异缩小, 草甸比例下降\nC. 与地带性植被差异扩大, 草甸比例上升\nD. 与地带性植被差异扩大, 草甸比例下降",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_210_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【11 题详解】\n由材料“该区域的山坡受流水侵蚀, 谷地持续接受沉积”可知, 如果地质构造稳定、气候无明显变化, 谷地地区沉积物不断增厚, 地势抬升, 由上题分析可知, 地下水水位将会不断下降, 土壤水分减少, 谷地植被与当地地带性植被差异将会不断缩小, 非地带性植被草甸比例下降, 故 B 正确, 排除 ACD。故选 B。",
+            "index": 210,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_186_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_185_0.png",
+                        "distance": 0.8040644526481628
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8010182976722717
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_123_0.png",
+                        "distance": 0.7727541327476501
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_122_0.png",
+                        "distance": 0.7727541327476501
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "豌豆尖是冬季时令蔬菜。贵州龙里豌豆尖生产历史长、品质优, 然而售价低, 主要供应周边市场。2016 年, 龙里豌豆尖被认证为国家地理标志保护产品。近年来, 通过与蔬菜经销商合作, 利用快速冷链运输, 龙里豌豆尖以较高价格畅销少数城市 (如图)。据此完成下面小题\n4. 如今龙里踠豆尖能够以较高价格畅销的关键是 (  )\n(1)提高销售价格$\\cdot$(2)扩大种植规模$\\cdot$(3)拓展销售渠道$\\cdot$(4)保持产品新鲜\nA. (1)(2)\nB. (2)(3)\nC. (3)(4)\nD. (1)(4)",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_211_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【4 题详解】\n提高产品的销售价格不能使踠豆尖畅销, (1)错误; 根据市场供求关系, 单纯扩大种植规模不利于提高价格, (2)错误; 根据材料, 2016 年之前, 踠豆尖主要供应周边市场, 现在通过蔬菜经销商合作, 利用快速冷链运输到北京、上海、广州、深圳、上海、香港、澳门等大城市, 拓展了销售的渠道和范围, 远距离运输也能保持产品新鲜, (3)(4)正确。故选 C。",
+            "index": 211,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_34_0.png",
+                        "distance": 0.8456568717956543
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_33_0.png",
+                        "distance": 0.8443471789360046
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_137_0.png",
+                        "distance": 0.8411659002304077
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_136_0.png",
+                        "distance": 0.8411659002304077
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_135_0.png",
+                        "distance": 0.8411659002304077
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "豌豆尖是冬季时令蔬菜。贵州龙里豌豆尖生产历史长、品质优, 然而售价低, 主要供应周边市场。2016 年, 龙里豌豆尖被认证为国家地理标志保护产品。近年来, 通过与蔬菜经销商合作, 利用快速冷链运输, 龙里豌豆尖以较高价格畅销少数城市 (如图)。据此完成下面小题\n5. 龙里豌豆尖主要供应少数城市, 是因为这些城市 (  )\nA. 人口规模大\nB. 消费水平高\nC. 飞机航班多\nD. 冬季蔬菜少",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_212_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【5 题详解】\n根据材料, 龙里豌豆尖以较高价格畅销, 人口规模大不能保证人们能接受踠豆尖较高的价格, $\\mathrm{A}$ 错误; 根据图示，龙里踠豆尖主要供应北京、上海、广州、深圳、上海、香港、澳门等大城市，是因为这些地区的经济发达, 消费水平高, 人们更容易接受踠豆尖较高的价格, 有利于啘豆尖卖出好价格, 提高经济收入,B 正确; 踠豆尖的运输不一定用飞机运输, 较近的地区可以采用高速公路运输, 飞机航班多不是选择在这些城市的主要原因, C 错误; 这些大城市冬季蔬菜不少, D 错误。故选 B。",
+            "index": 212,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_34_0.png",
+                        "distance": 0.8456568717956543
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_33_0.png",
+                        "distance": 0.8443471789360046
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_137_0.png",
+                        "distance": 0.8411659002304077
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_136_0.png",
+                        "distance": 0.8411659002304077
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_135_0.png",
+                        "distance": 0.8411659002304077
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "近十几年来, 随着经济发展和家用汽车普及, 我国区域公路干线 (国道或省道) 在经过平原地区县城时,一般经历从穿城到绕城的变化。下图示意经过某县城的国道布局变化, 其中新国道建成通车后, 旧国道转为城市道路。据此完成下面小题。\n4. 图 1 所示旧国道布局的主要目的是 ( )\nA. 方便县城对外运输\nB. 方便县城内部运输\nC. 促进县城用地扩展\nD. 吸引县城商业集聚",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_213_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【4题详解】\n国道线等级高且多为直道，比一般道路标准高和行车速度快，主要目的是增加道路的通行能力，方便对外运输，故A正确；国道为过境道路，增加县城内部运输的交通压力，B错误；国道运输条件优越，可能会吸引工业区分布在其沿线，但不是其主要目的，是其带来的影响，C错误；国道运输优势明显，可能在与城郊环状道路交汇处吸引批发商业区集聚，但也不是国道布局的主要目的，而是其带来的影响，D错误。故选A。",
+            "index": 213,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_167_0.png",
+                        "distance": 0.8681952357292175
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_166_0.png",
+                        "distance": 0.8681952357292175
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_126_0.png",
+                        "distance": 0.8576802611351013
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_125_0.png",
+                        "distance": 0.8576802611351013
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_124_0.png",
+                        "distance": 0.8576802611351013
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "近十几年来, 随着经济发展和家用汽车普及, 我国区域公路干线 (国道或省道) 在经过平原地区县城时,一般经历从穿城到绕城的变化。下图示意经过某县城的国道布局变化, 其中新国道建成通车后, 旧国道转为城市道路。据此完成下面小题。\n5. 新国道通车前, 旧国道面临的主要问题是 (  )\n(1)等级过低(2)线路过长(3)车流量过大(4)路口过多\nA. (1)(2)\nB. (2)(3)\nC. (3)(4)\nD. (1)(4)",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_214_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "5题详解】\n旧国道穿城而过，对城镇内部交通影响较大，造成车流量较大，与城内各种道路形成交叉口，路口过多，容易产生拥堵，故③④符合题意；国道等级较高，①不符合题意；旧国道为直道，线路相对较短，②错误。故③④正确，故选C。",
+            "index": 214,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_167_0.png",
+                        "distance": 0.8632687330245972
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_166_0.png",
+                        "distance": 0.8632687330245972
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_104_0.png",
+                        "distance": 0.852756142616272
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_103_0.png",
+                        "distance": 0.852756142616272
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_102_0.png",
+                        "distance": 0.852756142616272
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "近十几年来, 随着经济发展和家用汽车普及, 我国区域公路干线 (国道或省道) 在经过平原地区县城时,一般经历从穿城到绕城的变化。下图示意经过某县城的国道布局变化, 其中新国道建成通车后, 旧国道转为城市道路。据此完成下面小题。\n6. 推测新国道通车后 (  )\nA. 车辆过境速度提高\nB. 车辆穿城用时增加\nC. 县城汽车保有量减少\nD. 县城商业萎缩",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_215_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【6题详解】\n新国道避开了城内交通线路的影响，车辆行驶较为通畅，车辆过境速度提高，过境用时会缩短，A正确，B错误；新国道本身对县城汽车保有量没有直接影响，C错误；新国道对城内交通具有缓解拥堵的作用，应该是有利于城内商业发展，故D错误。故选A。",
+            "index": 215,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_167_0.png",
+                        "distance": 0.8632687330245972
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_166_0.png",
+                        "distance": 0.8632687330245972
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_104_0.png",
+                        "distance": 0.852756142616272
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_103_0.png",
+                        "distance": 0.852756142616272
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_102_0.png",
+                        "distance": 0.852756142616272
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "莲花盆是一种独特的地下喀斯特景观。它是在溶洞的薄层水中由水底向上发育的盆状或圆盘状沉积体 (下图)。广西某溶洞数百米长的洞穴中, 分布着百余座大小不一的莲花盆, 最大的莲花盆直径达 9 米, 据此完成下面小题。\n7. 形成莲花盆需要 $()$\n(1)水自洞顶不断滴落(2)水沿洞壁缓慢渗出(3)不断流动的薄层水(4)相对静止的薄层水\nA. (1)(3)\nB. (1)(4)\nC. (2)(3)\nD. (2)(4)",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_216_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【7题详解】\n由材料“盆状或圆盘状沉积体”可知，莲花盆的形成需要含有碳酸氢钙的滴水不断滴到洞穴池塘中，导致池水自滴点向四周外溢，从而形成盆状，故①正确，②错误；由材料“在溶洞的薄层水中由水底向上发育”可知，莲花盆的形成需要有平整的洞底，能形成浅水池，且有相对稳定的沉积环境，如相对静止的薄层水，故③错误，④正确。故①④正确，故选B。",
+            "index": 216,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_186_0.png",
+                        "distance": 0.529539167881012
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_185_0.png",
+                        "distance": 0.529539167881012
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_7_0.png",
+                        "distance": 0.5242424011230469
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_169_0.png",
+                        "distance": 0.5195983648300171
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_168_0.png",
+                        "distance": 0.5195983648300171
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "莲花盆是一种独特的地下喀斯特景观。它是在溶洞的薄层水中由水底向上发育的盆状或圆盘状沉积体 (下图)。广西某溶洞数百米长的洞穴中, 分布着百余座大小不一的莲花盆, 最大的莲花盆直径达 9 米, 据此完成下面小题。\n8. 曾经流过该段溶洞的地下河为发育大规模莲花盆群提供的关键条件是 (  )\nA. 曲折的河道\nB. 平坦的河床\nC. 充足的水汽\nD. 丰富的泥沙",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_217_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【8题详解】\n由上题分析可知，莲花盆的形成需要有平整的洞底，能形成浅水池，且有相对稳定的沉积环境，故平坦的河床可以提供大量符合条件的平坦的地形，从而形成薄层水环境，有利于发育大规模莲花盆群，B正确；曲折的河道不能说明流速缓慢，故A错误；充足的水汽和丰富的泥沙对形成喀斯特地貌没有什么直接作用，故CD错误。故选B。",
+            "index": 217,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_186_0.png",
+                        "distance": 0.529539167881012
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_185_0.png",
+                        "distance": 0.529539167881012
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_7_0.png",
+                        "distance": 0.5242424011230469
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_169_0.png",
+                        "distance": 0.5195983648300171
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_168_0.png",
+                        "distance": 0.5195983648300171
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "青藏高原常见的草毡层 (下图), 由交织缠结的植物活、死根系与细颗粒物混杂而成。草轳层的厚度约 20 30 厘米, 随地表起伏无明显变化。草毡层中的细颗粒物与下伏物质（粗碎屑或基岩）的矿物、化学成分显著不同。草钻层对青藏高原生态安全具有重要意义，据此完成下面小题。\n9.$\\cdot$青藏高原草㖪层中的细颗粒物主要来自 (  )\nA. 基岩风化\nB. 流水搬运\nC. 冰川搬运\nD. 风力搬运",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_218_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【9题详解】\n由材料可知，草毡层中的细颗粒物与下伏物质（粗碎屑或基岩）的矿物、化学成分显著不同，说明其来源不是基岩风化，A错误；冰川搬运不具备分选性，冰川沉积物的粒径大小为杂乱无章，C错误；流水搬运来的沉积物主要分布于海拔较低的河谷地区，而草毡层随地表起伏无明显变化，B错误；风力搬运范围广，不受地表起伏影响，所以草毡层中的细土物质多来自风尘输入，其来源可能是附近的冰川与河流沉积物，也可能是千里之外的干旱区，D正确。故答案选D。",
+            "index": 218,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_172_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_171_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_170_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.7109720706939697
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_21_0.png",
+                        "distance": 0.7070527076721191
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "青藏高原常见的草㖪层（下图），由交织缠结的植物活、死根系与细颗粒物混杂而成。草㖪层的厚度约 20 30 厘米, 随地表起伏无明显变化。草钻层中的细颗粒物与下伏物质（粗碎屑或基岩）的矿物、化学成分显著不同。草毡层对青藏高原生态安全具有重要意义. 据此完成下面小题。\n10. 草毡层中植物死根分解缓慢的主要原因是 ( )\nA. 气温低\nB. 大气含氧量低\nC. 蒸发弱\nD. 太阳辐射强烈",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_219_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "10题详解】\n青藏高原地区海拔高，气温低，微生物的分解受到抑制，草毡层中植物死根分解缓慢，A正确；土壤中的根系主要是进行厌氧分解，空气中的含氧量对土壤中根系的分解影响较小，B错误；蒸发弱、太阳辐射对土壤中植物死根分解影响较小，CD错误。故答案选A。",
+            "index": 219,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_172_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_171_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_170_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.7109720706939697
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_21_0.png",
+                        "distance": 0.7070527076721191
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "青藏高原常见的草㖪层 (下图), 由交织缠结的植物活、死根系与细颗粒物混杂而成。草毡层的厚度约 20 30 厘米, 随地表起伏无明显变化。草钻层中的细颗粒物与下伏物质（粗碎屑或基岩）的矿物、化学成分显著不同。草㖪层对青藏高原生态安全具有重要意义. 据此完成下面小题。\n11. 青藏高原多年冻土区的草龵层可 ( )\n(1)增加大气与地下 热量交换(2)减少大气与地下的热量交换\n(3)增加地表对地下的水分补给(4)减少地表对地下的水分补给\nA. (1)(3)\nB. (1)(4)\nC. (2)(3)\nD. (2)(4)",
+            "picture": [
+                "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_220_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "11题详解】\n青藏高原多年冻土区的草毡层可以起到隔热作用，减少大气与地下的热量交换，缓解下部冻土融化，②正确，①错误；草毡层具有水分保蓄及调节地表径流作用，增加下渗量，增加地下水补给，③正确，④错误。②③正确，故答案选C。",
+            "index": 220,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_172_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_171_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_170_0.png",
+                        "distance": 0.7535172700881958
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.7109720706939697
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_21_0.png",
+                        "distance": 0.7070527076721191
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "4. 《论语》里记载了一段鲁哀公与有若的对话:\n哀公: 今年荒年收成不大好，国库又不足，该怎么办呢？\n有若：能否将老百姓的赋税从百分之二十降到百分之十呢？\n哀公：收百分之二十的税国库里的钱都不够，如果减到百分之十，岂不是更加糟糕吗？\n有若: 如果百姓手中没有钱, 国库里又怎么能有钱呢？如果百姓手中有了足够的钱, 你又何必为国库里没有钱发愁呢?\n下列图示中, 与有若的观点相吻合的是 (  )",
+            "picture": [
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_29_0.png",
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_29_1.png",
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_29_2.png",
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_29_3.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】 $\\mathrm{ABCD}$ : 有若的观点可以解读为: 较高的税率将抑制经济的增长, 使税基减小, 税收收入下降; 减税可以刺激经济增长, 扩大税基, 税收收入增加。有若的观点和西方 “拉弗曲线” 理论一致, “拉弗曲线” 是描绘税收收入与税率关系的曲线, 即当税率在一定的限度以下时, 提高税率能增加政府税收收入,但超过这一限度时，再提高税率反而导致政府税收收入减少。 $\\mathrm{B}$ 选项曲线与有若的观点相吻合, $\\mathrm{B}$ 符合题意, $\\mathrm{ACD}$ 均不符合题意。故本题选 B。",
+            "index": 29,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.8935940265655518
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_5_3.png",
+                        "distance": 0.8905444741249084
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.8876259326934814
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_11_0.png",
+                        "distance": 0.881441056728363
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_19_0.png",
+                        "distance": 0.8755645751953125
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.8710148334503174
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_5_3.png",
+                        "distance": 0.8695778250694275
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.86872398853302
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_12_0.png",
+                        "distance": 0.8674004077911377
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_148_0.png",
+                        "distance": 0.8660035133361816
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_5_3.png",
+                        "distance": 0.8985476493835449
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_12_0.png",
+                        "distance": 0.8946107625961304
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.8874251842498779
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.8790341019630432
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.8667669296264648
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.8999807834625244
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_5_3.png",
+                        "distance": 0.8915521502494812
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.8836591839790344
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_12_0.png",
+                        "distance": 0.8749061822891235
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.8707493543624878
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "4. 为刺激消费增加生产, 政府出台了一系列政策, 对购买甲种产品发放消费补贴, 对生产乙种产品的企业减税降费, 由此引起这两种产品的供需变化, 如下图所示。\n注: (1) 是指曲线 $\\mathrm{S} 1$ 到 $\\mathrm{S}_2$ 的移动; (2)是指点 $\\mathrm{E} 1$ 到 $\\mathrm{E}_2$ 的变动; (3)是指曲线 D1 到 $\\mathrm{D}_2$ 的移动; (4)是指点 M1 到 $\\mathrm{M}_2$ 的变动。\n图中, 正确反映两种产品政策效应的是 (  )\nA. 甲产品: (1) $\\rightarrow$ (2); 乙产品: (3) $\\rightarrow$ (4)\nB. 甲产品: (3) $\\rightarrow$ (4); 乙产品: (1) $\\rightarrow$ (2)\nC. 甲产品: (4) $\\rightarrow$ (3); 乙产品: (2) $\\rightarrow$ (1)\nD. 甲产品: (2) $\\rightarrow$ (1); 乙产品: (4) $\\rightarrow$ (3)",
+            "picture": [
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_30_0.png",
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_30_1.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】B: 政府对购买甲种产品发放消费补贴, 会促进人们对甲种产品的消费需求增加, 这一变化是由政府政策引起, 而非价格导致, 表明价格没有改变, 因此需求曲线应向右平移, 即对应(3)。甲产品的消费需求增加, 会促使甲产品的价格升高, 从而刺激甲产品的生产者扩大生产规模, 增加供给, 即对应(4)。因此甲产品的变化情况是：(3) $\\rightarrow$ (4)。政府对乙产品的生产企业减税降费, 降低了其生产成本, 会刺激生产者扩大生产规模, 增加供给, 但这一变化是由政府政策引起而不是由价格变化引起, 因此供给曲线应向右平移, 即对应(1)。乙产品的供给增加, 会引起价格下降, 从而刺激消费需求增加, 即对应(2)。因此, 乙产品的变化情况是: (1) $\\rightarrow$ (2), B 正确。\n$\\mathrm{ACD}$ : 通过以上分析发现, ACD 均不符合题意, 排除。故本题选 B。",
+            "index": 30,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_11_3.png",
+                        "distance": 0.9233013391494751
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_19_3.png",
+                        "distance": 0.9038057327270508
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_1_3.png",
+                        "distance": 0.9019957780838013
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_2_0.png",
+                        "distance": 0.8751440048217773
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_24_3.png",
+                        "distance": 0.8738152980804443
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_11_3.png",
+                        "distance": 0.9293332695960999
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_19_3.png",
+                        "distance": 0.9094184637069702
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_1_3.png",
+                        "distance": 0.9043030738830566
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_2_0.png",
+                        "distance": 0.8871999979019165
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_24_3.png",
+                        "distance": 0.8720444440841675
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "3.2022 年, 国家知识产权局对全国 20 余个省（区、市） 1 万多个专利权人开展专利产业化过程中的主要制约因素专题调研。调研结果见图。\n根据调研结果, 要提高科技成果转化和产业化水平, 政府应将重心放在 $()$\n(1)加强专利技术交易市场或平台建设\n(2)激励企业购买和引进国外专利技术\n(3)吸纳社会资本、建设科研成果转化试验基地\n(4)制定和完善专利产业化人才的培养和引进政策\nA. (1)(2)\nB. (1)(4)\nC. (2)(3)\nD. (3)(4)",
+            "picture": [
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_31_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】(3): 调研结果中, 缺乏资金设备或场地是专利产业化过程中的主要制约因素之一, 占比 $42.5 \\%$,是各类制约因素中专利权人占比居第二位, 因此政府有必要吸纳社会资本、建设科研成果转化试验基地, (3)正确。\n(4): 调研结果中, 缺少高端专业人才是专利产业化过程中的主要制约因素之一, 占比 $48.7 \\%$, 是各类制约因素中专利权人占比最高, 因此政府有必要制定和完善专利产业化人才的培养和引进政策, (4)正确。\n(1)：调研结果中，没有涉及专利技术交易市场或平台建设问题，(1)排除。\n(2): 根据题意, 要提高科技成果转化和产业化水平, 政府主要抓好专利产业化人才的培养以及资金短缺问题, 尤其是要做好高端人才的培养, 独立自主自力更生地解决问题, 而不是依赖购买和引进国外专利技术, (2)排除。故本题选 D。",
+            "index": 31,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chinese_Pratical_Lit/2010-2023_Chinese_Pratical_Lit_3_0.png",
+                        "distance": 0.919835090637207
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chinese_Pratical_Lit/2010-2023_Chinese_Pratical_Lit_2_0.png",
+                        "distance": 0.919835090637207
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_26_0.png",
+                        "distance": 0.8901932835578918
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_3_0.png",
+                        "distance": 0.8826897144317627
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_40_1.png",
+                        "distance": 0.8726037740707397
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "7. “岁朝图”原是文人雅士为祈福新年而以鲜花、果蔬等为素材创作的绘画作品。到了近代, 齐白石等绘画大师将“岁朝图”生活化、世俗化，他的“岁朝图”中寓意吉祥富贵的牡丹花绽放，鞭炮、红灯笼、酒杯等“俗物”汇聚, 表达新年的喜悦和祝福, 成为民众喜闻乐见的“年画”。人们喜欢齐白石“岁朝图”, 是因为该作品 (  )\n(1)充满民俗特色，展现传统节日的欢庆氛围$\\cdot$\n(2)贴近民众生活，承载美好生活的精神追求\n(3)反映作者理想, 解构节日文化的传统内涵.\n(4)恪守传统风格, 再现传统文化的清雅意蕴\nA. (1)(2)\nB. (1)(4)\nC. (2)(3)\nD. (3)(4)",
+            "picture": [
+                "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_32_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】(1)(2): 近代齐白石等绘画大师将“岁朝图”生活化、世俗化, 表达新年的喜悦和祝福, 成为民众喜闻乐见的“年画”。人们之所以喜欢齐白石“岁朝图”, 是因为该作品充满民俗特色, 展现传统节日的欢庆氛围$\\cdot$, 贴近民众生活, 承载美好生活的精神追求, 这些正是民众期盼的, (1)(2)正确。\n(3): 传统文化具有相对稳定性, 在世代相传中仍保留着基本特征, 其基本内涵是相对稳定的, 而“解构”一词的意思是结构分解, 即是把一个事物拆解, 再重新建构分析, 齐白石“岁朝图”并没有对节日文化的传统内涵进行解构, (3)排除。\n(4): 齐白石等绘画大师将“岁朝图”生活化、世俗化, 表达新年的喜悦和祝福, 成为“年画”, 这是对优秀传统文化的继承与发展, 而不是恪守传统风格, (4)与题意不符。\n故本题选 A。",
+            "index": 32,
+            "score": 4,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Political_Science_MCQs/2010-2023_Political_Science_MCQs_0_0.png",
+                        "distance": 0.7344182729721069
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_16_0.png",
+                        "distance": 0.7318717241287231
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_24_0.png",
+                        "distance": 0.7243531942367554
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_10_0.png",
+                        "distance": 0.707442581653595
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_History_MCQs/2010-2023_History_MCQs_19_0.png",
+                        "distance": 0.692817747592926
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "3. 一小车沿直线运动, 从 $t=0$ 开始由静止匀加速至 $t=t_1$ 时刻, 此后做匀减速运动, 到 $t=t_2$ 时刻速度降为零在下列小车位移 $x$ 与时间 $t$ 的关系曲线中, 可能正确的是 $()$",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_159_0.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_159_1.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_159_2.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_159_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 $x-t$ 图像的斜率表示速度, 小车先做匀加速运动, 因此速度变大即 $0-t_1$ 图像斜率变大, $t_1-t_2$ 做匀减速运动则图像的斜率变小, 在 $t_2$ 时刻停止图像的斜率变为零。故选 D",
+            "index": 159,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_50_4.png",
+                        "distance": 0.8992412090301514
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8991293907165527
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_68_3.png",
+                        "distance": 0.8864700794219971
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_3.png",
+                        "distance": 0.8835418820381165
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_89_0.png",
+                        "distance": 0.8809791207313538
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.9337496757507324
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_72_0.png",
+                        "distance": 0.9196850657463074
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_50_4.png",
+                        "distance": 0.9151862859725952
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_3.png",
+                        "distance": 0.8973339796066284
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_4_3.png",
+                        "distance": 0.8926854133605957
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.9184213876724243
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_72_0.png",
+                        "distance": 0.8984725475311279
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_50_4.png",
+                        "distance": 0.8968232274055481
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_3.png",
+                        "distance": 0.8947104215621948
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_3.png",
+                        "distance": 0.8868520259857178
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.924993634223938
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_72_0.png",
+                        "distance": 0.9159343242645264
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_50_4.png",
+                        "distance": 0.908119261264801
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_4_3.png",
+                        "distance": 0.8903454542160034
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_3.png",
+                        "distance": 0.8891953229904175
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "5. 在一些电子显示设备中, 让阴极发射的电子束通过适当的非匀强电场, 可以使发散的电子束聚集。下列 4 幅图中带箭头的实线表示电场线, 如果用虚线表示电子可能的运动轨迹, 其中正确的是 (  )",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_160_0.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_160_1.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_160_2.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_160_3.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】A. 电子做曲线运动满足合力指向轨迹凹侧, A 正确;\nB. 电子做曲线运动满足合力指向轨迹凹侧, 对电子受力分析有,可见与电场力的受力特点相互矛盾, $\\mathrm{B}$ 错误;\nC. 电子做曲线运动满足合力指向轨迹凹侧, 对电子受力分析有,可见与电场力的受力特点相互矛盾, $\\mathrm{C}$ 错误;\nD. 电子做曲线运动满足合力指向轨迹凹侧, 对电子受力分析有,可见与电场力的受力特点相互矛盾, D 错误;\n故选 A。",
+            "index": 160,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8595454692840576
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.8520987033843994
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8515378832817078
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_2_0.png",
+                        "distance": 0.8487824201583862
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8418676853179932
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.853050947189331
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8479804992675781
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.8409111499786377
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8388725519180298
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_93_4.png",
+                        "distance": 0.8316584229469299
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8518880605697632
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8497827053070068
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8418505191802979
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.8317679166793823
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_21_4.png",
+                        "distance": 0.8299248218536377
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8471775054931641
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8411679267883301
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.8373633623123169
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8337442278862
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8235448598861694
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "6. 用水平拉力使质量分别为$m$、$m_{\\text{猜}}$ 的甲、乙两物体在水平桌面上由静止开始沿直线运动，两物体与桌面间的动摩擦因数分别为$\\mu$ 和$\\mu_{\\text{猜}}$ 。甲、乙两物体运动后，所受拉力F与其加速度a的关系图线如图所示。由图可知 $(\\cdots \\cdots)$\nA. $m<m_{\\text {猜 }}$\nB. $m>m_{\\text {猜 }}$\nC. $\\mu<\\mu_{\\text {猜 }}$\nD. $\\mu>\\mu_{\\text {青 }}$",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_161_0.png"
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "【详解】根据牛顿第二定律有$$F-\\mu m g=m a$$整理后有$$F=m a+\\mu m g$$则可知 $F-a$ 图像 斜率为 $m$, 纵截距为 $\\mu m g$, 则由题图可看出$$m_{\\text {甲 }}>m_{\\text {乙 }}, \\mu_{\\text {甲 }} m_{\\text {甲 }} g=\\mu_{\\text {乙 }} m_{\\text {乙 }} g$$则$$\\mu_{\text {甲 }}<\\mu_{\text {乙 }}$$故选 BC",
+            "index": 161,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_1_0.png",
+                        "distance": 0.9140323400497437
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_37_0.png",
+                        "distance": 0.9007803797721863
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png",
+                        "distance": 0.8764669895172119
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_9_0.png",
+                        "distance": 0.867022693157196
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_4_0.png",
+                        "distance": 0.8666171431541443
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "7. 光滑刚性绝缘圆筒内存在着平行于轴的匀强磁场, 筒上 $P$ 点开有一个小孔, 过 $P$ 的横截面是以 $O$ 为圆心的圆, 如图所示。一带电粒子从 $P$ 点沿 $P O$ 射入, 然后与筒壁发生碰撞。假设粒子在每次碰撞前、后瞬间, 速度沿圆上碰撞点的切线方向的分量大小不变, 沿法线方向的分量大小不变、方向相反; 电荷量不变。不计重力。下列说法正确的是 (  )\nA. 粒子的运动轨迹可能通过圆心 $O$\nB. 最少经 2 次碰撞, 粒子就可能从小孔射出\nC. 射入小孔时粒子的速度越大，在圆内运动时间越短\nD. 每次碰撞后瞬间, 粒子速度方向一定平行于碰撞点与圆心 $O$ 的连线",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_162_0.png"
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "【详解】 D. 假设粒子带负电, 第一次从 $A$ 点和筒壁发生碰撞如图, $O_1$ 为圆周运动的圆心.由几何关系可知 $\\angle O_1 A O$ 为直角, 即粒子此时的速度方向为 $O A$, 说明粒子在和筒壁碰撞时速度会反向, 由圆的对称性在其它点撞击同理, D 正确;\nA. 假设粒子运动过程过 $O$ 点, 则过 $P$ 点的速度的垂线和 $O P$ 连线的中垂线是平行的不能交于一点确定圆心, 由圆形对称性撞击筒壁以后的 $A$ 点的速度垂线和 $A O$ 连线的中垂线依旧平行不能确定圆心, 则粒子不可能过 $O$ 点, A 错误;\nB. 由题意可知粒子射出磁场以后的圆心组成的多边形应为以筒壁的内接圆的多边形, 最少应为三角形如图所示,即撞击两次, B 正确;\nC. 速度越大粒子做圆周运动的半径越大, 碰撞次数会可能增多, 粒子运动时间不一定减少, $\\mathrm{C}$ 错误。故选 BD。",
+            "index": 162,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_143_0.png",
+                        "distance": 0.8725332021713257
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_128_0.png",
+                        "distance": 0.8614559769630432
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8567156791687012
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_152_0.png",
+                        "distance": 0.8519303202629089
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_58_0.png",
+                        "distance": 0.8450676202774048
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "8. 一有机玻璃管坚直放在水平地面上, 管上有漆包线绕成的线圈, 线圈的两端与电流传感器相连, 线圈在玻璃管上部的 5 匝均匀分布，下部的 3 币也均匀分布，下部相邻两匝间的距离大于上部相邻两匝间的距离。如图 (a) 所示。现让一个很小的强磁体在玻璃管内沿轴线从上端口由静止下落, 电流传感器测得线圈中电流 $I$ 随时间 $t$ 的变化如图 (b) 所示。则 (  )\nA. 小磁体在玻璃管内下降速度越来越快\nB. 下落过程中，小磁体的 $\\mathrm{N}$ 极、 $\\mathrm{S}$ 极上下顺倒了 8 次\nC. 下落过程中, 小磁体受到的电磁阻力始终保持不变\nD. 与上部相比，小磁体通过线圈下部的过程中，磁通量变化率的最大值更大",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_163_0.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_163_1.png"
+            ],
+            "answer": [
+                "AD"
+            ],
+            "analysis": "【详解】AD. 电流的峰值越来越大, 即小磁铁在依次穿过每个线圈的过程中磁通量的变化率越来越快, 因此小磁体的速度越来越大, $\\mathrm{AD}$ 正确;\nB. 假设小磁体是 $\\mathrm{N}$ 极向下穿过线圈, 则在穿入靠近每匝线圈的过程中磁通量向下增加产生逆时针的电流,而在穿出远离每匝线圈的过程中磁通量向下减少产生逆时针的电流, 即电流方向相反与题干描述的穿过线圈的过程电流方向变化相符, $\\mathrm{S}$ 极向下同理, $\\mathrm{B}$ 错误;\nC. 线圈可等效为条形磁铁, 线圈的电流越大则磁性越强, 因此电流的大小是变化的小磁体受到的电磁阻力是变化的, 不是一直不变的, $\\mathrm{D}$ 错误。\n故选 $\\mathrm{AD}$ 。",
+            "index": 163,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_17_0.png",
+                        "distance": 0.8564997315406799
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_3.png",
+                        "distance": 0.8424268960952759
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_80_0.png",
+                        "distance": 0.8402076959609985
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_18_0.png",
+                        "distance": 0.8371174931526184
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_90_0.png",
+                        "distance": 0.8299485445022583
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8799500465393066
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_15_1.png",
+                        "distance": 0.8693739175796509
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_14_1.png",
+                        "distance": 0.8693739175796509
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_11_0.png",
+                        "distance": 0.8546818494796753
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_2_0.png",
+                        "distance": 0.8538172245025635
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "2. 小车在水平地面上沿轨道从左向右运动, 动能一直增加。如果用带箭头的线段表示小车在轨道上相应位置处所受合力，下列四幅图可能正确的是 (  )",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_164_0.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_164_1.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_164_2.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_164_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 $\\mathrm{AB}$. 小车做曲线运动, 所受合外力指向曲线的凹侧, 故 $\\mathrm{AB}$ 错误;\nCD. 小车沿轨道从左向右运动, 动能一直增加, 故合外力与运动方向夹角为锐角, $\\mathrm{C}$ 错误, $\\mathrm{D}$ 正确。故选 D。",
+            "index": 164,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8662500381469727
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_19_0.png",
+                        "distance": 0.8651707172393799
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8626487255096436
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_64_0.png",
+                        "distance": 0.8572399616241455
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8567701578140259
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_136_0.png",
+                        "distance": 0.8456220626831055
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_55_0.png",
+                        "distance": 0.826632022857666
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.823879599571228
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8200459480285645
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_67_0.png",
+                        "distance": 0.8092203140258789
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_136_0.png",
+                        "distance": 0.8533234596252441
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8461910486221313
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8447736501693726
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_19_0.png",
+                        "distance": 0.8429418802261353
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_141_0.png",
+                        "distance": 0.8309094905853271
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.8626153469085693
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_19_0.png",
+                        "distance": 0.861234188079834
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_59_0.png",
+                        "distance": 0.8573758602142334
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_77_0.png",
+                        "distance": 0.8554642200469971
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_92_0.png",
+                        "distance": 0.8524009585380554
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "4. 一学生小组在探究电磁感应现象时, 进行了如下比较实验。用图 (a) 所示的缠绕方式, 将漆包线分别绕在几何尺寸相同的有机玻璃管和金属铝管上, 漆包线的两端与电流传感器接通。两管皆坚直放置, 将一很小的强磁体分别从管的上端由静止释放, 在管内下落至管的下端。实验中电流传感器测得的两管上流过漆包线的电流 $I$ 随时间 $t$ 的变化分别如图 (b) 和图 (c) 所示, 分析可知 (  )\nA. 图 (c) 是用玻璃管获得的图像\nB. 在铝管中下落，小磁体做匀变速运动\nC. 在玻璃管中下落, 小磁体受到的电磁阻力始终保持不变\nD. 用铝管时测得的电流第一个峰到最后一个峰的时间间隔比用玻璃管时的短",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_165_0.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_165_1.png",
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_165_2.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】A. 强磁体在铝管中运动, 铝管会形成浴流, 玻璃是绝缘体故强磁体在玻璃管中运动, 玻璃管不会形成涡流。强磁体在铝管中加速后很快达到平衡状态, 做匀速直线运动, 而玻璃管中的磁体则一直做加速运动, 故由图像可知图 (c) 的脉冲电流峰值不断增大, 说明强磁体的速度在增大, 与玻璃管中磁体的运动情况相符, A 正确;\nB. 在铝管中下落, 脉冲电流的峰值一样, 磁通量的变化率相同, 故小磁体做匀速运动, B 错误;\nC. 在玻璃管中下落, 玻璃管为绝缘体, 线圈的脉冲电流峰值增大, 电流不断在变化, 故小磁体受到的电磁阻力在不断变化, C 错误;\nD. 强磁体分别从管的上端由静止释放, 在铝管中, 磁体在线圈间做匀速运动, 玻璃管中磁体在线圈间做加速运动，故用铝管时测得的电流第一个峰到最后一个峰的时间间隔比用玻璃管时的长，D错误。\n故选 A。",
+            "index": 165,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_51_0.png",
+                        "distance": 0.8384454846382141
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_80_0.png",
+                        "distance": 0.8353807926177979
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_2_0.png",
+                        "distance": 0.8340636491775513
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_52_0.png",
+                        "distance": 0.830420196056366
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_45_0.png",
+                        "distance": 0.824023962020874
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_142_0.png",
+                        "distance": 0.8569564819335938
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_56_0.png",
+                        "distance": 0.8515154123306274
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_158_0.png",
+                        "distance": 0.8513689041137695
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_2_0.png",
+                        "distance": 0.8498119115829468
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8426637053489685
+                    }
+                ],
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_15_1.png",
+                        "distance": 0.8547703623771667
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Geography_MCQs/2010-2023_Geography_MCQs_14_1.png",
+                        "distance": 0.8547703623771667
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_4_3.png",
+                        "distance": 0.8536057472229004
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_56_0.png",
+                        "distance": 0.8469265699386597
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Biology_MCQs/2010-2023_Biology_MCQs_2_0.png",
+                        "distance": 0.840323805809021
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "5. 如图, 一磁感应强度大小为 $B$ 的匀强磁场, 方向垂直于纸面 ( $x O_y$ 平面) 向里, 磁场右边界与 $x$ 轴垂直。一带电粒子由 $O$ 点沿 $x$ 正向入射到磁场中, 在磁场另一侧的 $S$ 点射出, 粒子离开磁场后, 沿直线运动打在垂直于 $x$ 轴的接收屏上的 $P$ 点; $S P=l, S$ 与屏的距离为 $\\frac{l}{2}$, 与 $x$ 轴的距离为 $a$ 。如果保持所有条件不变, 在磁场区域再加上电场强度大小为 $E$ 的匀强电场, 该粒子入射后则会沿 $x$ 轴到达接收屏。该粒子的比荷为 $()$\nA. $\\frac{E}{2 a B^2}$\nB. $\\frac{E}{a B^2}$\nC. $\\frac{B}{2 a E^2}$\nD. $\\frac{B}{a E^2}$",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_166_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】由题知, 一带电粒子由 $O$ 点沿 $x$ 正向入射到磁场中, 在磁场另一侧的 $S$ 点射出, 则根据几何关系可知粒子做圆周运动的半径\n$$\nr=2 a\n$$\n则粒子做圆周运动有\n$$\nq v B=m \\frac{v^2}{r}\n$$\n则有\n$$\n\\frac{q}{m}=\\frac{v}{2 a \\cdot B}\n$$\n如果保持所有条件不变, 在磁场区域再加上电场强度大小为 $E$ 的匀强电场, 该粒子入射后则会沿 $x$ 轴到达接收屏, 则有\n$$\nE q \\cdot q v B\n$$\n联立有\n$$\n\\frac{q}{m}=\\frac{E}{2 a \\cdot B^2}\n$$\n故选 A。",
+            "index": 166,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_152_0.png",
+                        "distance": 0.9030113220214844
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_97_0.png",
+                        "distance": 0.8867468237876892
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_68_0.png",
+                        "distance": 0.8734327554702759
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_143_0.png",
+                        "distance": 0.8714598417282104
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8702048659324646
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "6. 在 $O$ 点处固定一个正点电荷, $P$ 点在 $O$ 点右上方。从 $P$ 点由静止释放一个带负电的小球, 小球仅在重力和该点电荷电场力作用下在坚直面内运动, 其一段轨迹如图所示。 $M 、 N$ 是轨迹上的两点, $O P>O M$, $O M=O N$, 则小球 $()$\nA. 在运动过程中, 电势能先增加后减少\nB. 在 $P$ 点的电势能大于在 $N$ 点的电势能\nC. 在 $M$ 点的机械能等于在 $N$ 点的机械能\nD. 从 $M$ 点运动到 $N$ 点的过程中, 电场力始终不做功",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_167_0.png"
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "【详解】 ABC. 由题知, $O P>O M, O M=O N$, 则根据点电荷的电势分布情况可知\n$$\n\\varphi_M=\\varphi_N>\\varphi_R\n$$\n则带负电的小球在运动过程中, 电势能先减小后增大, 且\n$$\nE_{\\mathrm{p} R}>E_{\\mathrm{p} M}=E_{\\mathrm{p} X}\n$$\n则带负电 小球在 $M$ 点的机械能等于在 $N$ 点的机械能, $\\mathrm{A}$ 错误、 $\\mathrm{BC}$ 正确; D. 从 $M$ 点运动到 $N$ 点的过程中, 电场力先做正功后做负功, $\\mathrm{D}$ 错误。故选 BC。",
+            "index": 167,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_55_0.png",
+                        "distance": 0.8754973411560059
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_43_0.png",
+                        "distance": 0.8623379468917847
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_153_0.png",
+                        "distance": 0.8591357469558716
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_137_0.png",
+                        "distance": 0.8528298139572144
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_58_0.png",
+                        "distance": 0.8421640992164612
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "7. 黑箱外有编号为 $1 、 2 、 3 、 4$ 的四个接线柱, 接线柱 1 和 $2 、 2$ 和 $3 、 3$ 和 4 之间各接有一个电阻, 在接线柱间还接有另外一个电阻 $R$ 和一个直流电源。测得接线柱之间的电压 $U_{12}=3.0 \\mathrm{~V}, U_{23}=2.5 \\mathrm{~V}, U_{34}=-1.5 \\mathrm{~V}$ 。符合上述测量结果的可能接法是 (  )\nA. 电源接在 $1 、 4$ 之间， $R$ 接在 $1 、 3$ 之间\nB. 电源接在 $1 、 4$ 之间， $R$ 接在 $2 、 4$ 之间\nC. 电源接在 $1 、 3$ 之间， $R$ 接在 $1 、 4$ 之间\nD. 电源接在 $1 、 3$ 之间, $R$ 接在 $2 、 4$ 之间",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_168_0.png"
+            ],
+            "answer": [
+                "CD"
+            ],
+            "analysis": "【详解】A. 根据题意画出电路图, 如下可见 $U_{34}>0, \\mathrm{~A}$ 错误;\nB. 根据题意画出电路图, 如下可见 $U_{34}>0, \\mathrm{~B}$ 错误;\nC. 根据题意画出电路图, 如下可见上述接法可符合上述测量结果, C 正确;\nD. 根据题意画出电路图, 如下可见上述接法可符合上述测量结果, D 正确。故选 CD。",
+            "index": 168,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_70_4.png",
+                        "distance": 0.8702264428138733
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.845451831817627
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.8449572324752808
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_84_0.png",
+                        "distance": 0.842433750629425
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_93_4.png",
+                        "distance": 0.8404558897018433
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "8. 如图, 一质量为 $M$ 、长为 $l$ 的木板静止在光滑水平桌面上, 另一质量为 $m$ 的小物块 (可视为质点) 从木板上的左端以速度 $v_0$ 开始运动。已知物块与木板间的滑动摩擦力大小为 $f$, 当物块从木板右端离开时 $()$\nA. 木板的动能一定等于 $f l$\nB. 不板的动能一定小于 $f l$\nC. 物块的动能一定大于 $\\frac{1}{2} m v_0^2-f l$\nD. 物块的动能一定小于 $\\frac{1}{2} m v_0^2-f l$",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_169_0.png"
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "【详解】当物块从木板右端离开时, 对 $m$ 有\n$$\n-f x_{\\mathrm{m}}=\\frac{1}{2} m v_{\\mathrm{m}}^2-\\frac{1}{2} m v_0^2\n$$\n对 $M$ 有\n$$\nf x_{\\mathrm{M}}=\\frac{1}{2} m v_{\\mathrm{M}}^2\n$$\n其中\n$$\nl=x_{\\mathrm{m}}-x_{\\mathrm{m}}\n$$\n$\\mathrm{AB}$. 由于 $l>x_M$, 则根据以上分析可知木板的动能一定小于 $f l, \\mathrm{~A}$ 错误、 B 正确;\nCD．根据以上分析, 联立有\n$$\n\\frac{1}{2} m v_0^2-f l=\\frac{1}{2} m v_{\\mathrm{m}}^2+\\frac{1}{2} m v_{\\mathrm{M}}^2\n$$\n则物块的动能一定小于 $\\frac{1}{2} m v_0^2-f l, \\mathrm{C}$ 错误、 $\\mathrm{D}$ 正确。故选 BD。",
+            "index": 169,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_97_0.png",
+                        "distance": 0.9112768769264221
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_79_0.png",
+                        "distance": 0.9067533016204834
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.8975857496261597
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_40_0.png",
+                        "distance": 0.89522784948349
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_152_0.png",
+                        "distance": 0.8897257447242737
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "5. 一电子和一 $\\alpha$ 粒子从铅盒上的小孔 $O$ 坚直向上射出后, 打到铅盒上方水平放置的屏幕 $P$ 上的 $a$ 和 $b$ 两点, $a$ 点在小孔 $O$ 的正上方, $b$ 点在 $a$ 点的右侧, 如图所示。已知 $\\alpha$ 粒子的速度约为电子速度的 $\\frac{1}{10}$, 铅盒与屏幕之间存在匀强电场和匀强磁场, 则电场和磁场方向可能为（  ）\nA. 电场方向水平向左、磁场方向垂直纸面向里\nB. 电场方向水平向左、磁场方向垂直纸面向外\nC. 电场方向水平向右、磁场方向垂直纸面向里\nD. 电场方向水平向右、磁场方向垂直纸面向外",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_170_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 带电粒子在电场和磁场中运动, 打到 $a$ 点的粒子电场力和洛伦兹力平衡, 当电场向左磁场垂直直面向里时, $\\alpha$ 粒子受到向左的电场力和洛伦兹力, 电子受到向右的电场力和洛伦兹力均不能满足受力平衡打到 $a$ 点, $\\mathrm{A}$ 错误;\nB. 电场方向向左, 磁场方向向外, 此时如果 $\\alpha$ 粒子打在 $a$ 点则受到向左的电场力和向右的洛伦兹力平衡\n$$\nq E=q v B\n$$\n则电子向左的洛伦兹力大于向右的电场力向左偏转, 同理如果电子打在 $a$ 点, 则 $\\alpha$ 粒子向左的电场力大于向右的洛伦兹力向左偏转, 均不会打在 $b$ 点, $\\mathrm{B}$ 错误;\nCD. 电场方向向右, 磁场垂直纸面向里, 如果 $\\alpha$ 粒子打在 $a$ 点, 即向右的电场力和向左的洛伦兹力平衡\n$$\nq E=q v B\n$$\n电子向右 洛伦兹力大于向左的电场力向右偏转, 同理如果电子打在 $a$, 则 $\\alpha$ 粒子向右的电场力大于向左的洛伦兹力向偏转, 均会打在 $b$ 点; 同理电场向右磁场垂直纸面向外时, $\\alpha$ 粒子受到向右的电场力和洛伦兹力, 电子受到向左的电场力和洛伦兹力不能受力平衡打到 $a$ 点, 故 C 正确 D 错误;故选 C。",
+            "index": 170,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_55_0.png",
+                        "distance": 0.885340690612793
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_23_0.png",
+                        "distance": 0.8833321332931519
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8761693239212036
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_25_0.png",
+                        "distance": 0.8733604550361633
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_153_0.png",
+                        "distance": 0.8693822622299194
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "6. 使甲、乙两条形磁铁隔开一段距离, 静止于水平桌面上, 甲的 $\\mathrm{N}$ 极正对着乙的 $\\mathrm{S}$ 极, 甲的质量大于乙的质量, 两者与桌面之间的动摩擦因数相等。现同时释放甲和乙, 在它们相互接近过程中的任一时刻 $()$\nA. 甲的速度大小比乙的大\nB. 甲的动量大小比乙的小\nC. 甲的动量大小与乙的相等\nD. 甲和乙的动量之和不为零",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_171_0.png"
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "【详解】对甲、乙两条形磁铁分别做受力分析, 如图所示\nA. 根据牛顿第二定律有\n$$\n\\begin{gathered}\na=\\frac{F-\\mu m g}{m} \\\\\na_{\\text {猜 }}=\\frac{F-\\mu m_{\\text {猜 }} g}{m_{\\text {猜 }}}\n\\end{gathered}\n$$\n由于\n$$\nm_{\\text {甲 }}>m_{\\text {乙 }}\n$$\n所以\n$$\na_{\\text {甲 }}<a_{\\text {乙 }}\n$$\n由于两物体运动时间相同, 且同时由静止释放, 可得\n$$\nv_{\\text {甲 }}<v_{\\text {乙 }}\n$$\nA 错误;\nBCD. 对于整个系统而言, 由于 $\\mu m_{\\text {甲 }} g \\cdot \\mu_m z$, 合力方向向左, 合冲量方向向左, 所以合动量方向向左,显然甲的动量大小比乙的小, $\\mathrm{BD}$ 正确、 $\\mathrm{C}$ 错误。\n故选 BD。",
+            "index": 171,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_15_4.png",
+                        "distance": 0.9459582567214966
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_19_0.png",
+                        "distance": 0.922285258769989
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_2_0.png",
+                        "distance": 0.9141923785209656
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_92_0.png",
+                        "distance": 0.9094586372375488
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_59_0.png",
+                        "distance": 0.8907047510147095
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "7. 一质量为 $1 \\mathrm{~kg}$ 的物体在水平拉力的作用下, 由静止开始在水平地面上沿 $x$ 轴运动, 出发点为 $x$ 轴零点,拉力做的功 $W$ 与物体坐标 $x$ 的关系如图所示。物体与水平地面间的动摩擦因数为 0.4 , 重力加速度大小取 $10 \\mathrm{~m} / \\mathrm{s}^2$ 。下列说法正确的是 $()$\nA. 在 $x=1 \\mathrm{~m}$ 时, 拉力的功率为 $6 \\mathrm{~W}$\nB. 在 $x=4 \\mathrm{~m}$ 时, 物体的动能为 $2 \\mathrm{~J}$\nC. 从 $x=0$ 运动到 $x=2 \\mathrm{~m}$, 物体克服摩擦力做的功为 $8 \\mathrm{~J}$\nD. 从 $x=0$ 运动到 $x=4$ 的过程中, 物体的动量最大为 $2 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_172_0.png"
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "【详解】由于拉力在水平方向, 则拉力做的功为\n$$\nW \\cdot=F x\n$$\n可看出 $W-x$ 图像的斜率代表拉力 $F$ 。\n$\\mathrm{AB}$. 在物体运动的过程中根据动能定理有\n$$\nW-\\mu m g x=\\frac{1}{2} m v^2\n$$\n则 $x=1 \\mathrm{~m}$ 时物体的速度为\n$$\nv_1=2 \\mathrm{~m} / \\mathrm{s}\n$$\n$x=1 \\mathrm{~m}$ 时, 拉力\n$$\nF=\\frac{\\Delta W}{\\Delta x}=6 \\mathrm{~N}\n$$\n则此时拉力的功率\n$$\nP=F v_1=\\cdot 12 \\mathrm{~W}\n$$\n$x=4 \\mathrm{~m}$ 时物体的动能为\n$$\nE_{\\mathrm{k}}=2 \\mathrm{~J}\n$$\nA 错误、B 正确;\nC. 从 $x=0$ 运动到 $x=2 \\mathrm{~m}$, 物体克服摩擦力做的功为\n$$\nW_{\\mathrm{f}}=\\mu m g x^{-}=8 \\mathrm{~J}\n$$\nC 正确;\nD. 根据 $W-x$ 图像可知在 $0-2 \\mathrm{~m}$ 的过程中 $F_1=6 \\mathrm{~N}, 2-4 \\mathrm{~m}$ 的过程中 $F_2=3 \\mathrm{~N}$, 由于物体受到的摩擦力恒为 $f=4 \\mathrm{~N}$, 则物体在 $x=2 \\mathrm{~m}$ 处速度最大, 且根据选项 $\\mathrm{AB}$ 分析可知此时的速度\n$$\nv_2=\\sqrt{8} \\mathrm{~m} / \\mathrm{s}\n$$\n则从 $x=0$ 运动到 $x=4$ 的过程中, 物体的动量最大为\n$$\np=m v=2 \\sqrt{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}\n$$\n$\\mathrm{D}$ 错误。\n故选 BC.",
+            "index": 172,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_50_4.png",
+                        "distance": 0.90430748462677
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_72_0.png",
+                        "distance": 0.8992666006088257
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_4_3.png",
+                        "distance": 0.8850662708282471
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_146_3.png",
+                        "distance": 0.8806944489479065
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_53_0.png",
+                        "distance": 0.8787895441055298
+                    }
+                ]
+            ]
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "8. 如图, 一封闭着理想气体的绝热汽缸置于水平地面上, 用轻弹簧连接的两绝热活塞将汽缸分为 $f 、 g 、 h$三部分, 活塞与汽缸壁间没有摩擦。初始时弹簧处于原长, 三部分中气体的温度、体积、压强均相等。现通过电阻丝对 $f$ 中的气体缓慢加热, 停止加热并达到稳定后 (  )\nA. $h$ 中的气体内能增加 \nB. $f$ 与 $g$ 中的气体温度相等\nC. $f$ 与 $h$ 中的气体温度相等\nD. $f$ 与 $h$ 中的气体压强相等",
+            "picture": [
+                "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_173_0.png"
+            ],
+            "answer": [
+                "AD"
+            ],
+            "analysis": "【详解】 A. 当电阻丝对 $f$ 中的气体缓慢加热时, $f$ 中的气体内能增大, 温度升高, 根据理想气体状态方程可知 $f$ 中的气体压强增大, 会缓慢推动左边活塞, 则弹簧被压缩。与此同时弹簧对右边活塞有弹力作用, 缓慢向右推动左边活塞。故活塞对 $h$ 中的气体做正功, 且是绝热过程, 由热力学第一定律可知, $h$ 中的气体内能增加, A 正确;\nB. 未加热前, 三部分中气体的温度、体积、压强均相等, 当系统稳定时, 活塞受力平衡, 可知弹簧处于压缩状态, 对左边活塞分析\n$$\np_{\\mathrm{f}} S=F_{\\text {嗝 }}+p_{\\mathrm{g}} S\n$$\n则\n$$\np_{\\mathrm{f}}>p_{\\mathrm{g}}\n$$\n分别对 f $\\mathrm{f}$. 内的气体分析, 根据理想气体状态方程有\n$$\n\\begin{gathered}\n\\frac{p_0 V_0}{T_0}=\\frac{p_{\\mathrm{f}} V_{\\mathrm{f}}}{T_{\\mathrm{f}}} \\\\\n\\frac{p_0 V_0}{T_0}=\\frac{p_{\\mathrm{g}} V_{\\mathrm{g}}}{T_{\\mathrm{g}}}\n\\end{gathered}\n$$\n由题意可知, 因弹簧被压缩, 则 $V_{\\mathrm{f}}>V_{\\mathrm{g}}$, 联立可得\n$$\nT_{\\mathrm{f}}>T_{\\mathrm{g}}\n$$\nB 错误;\nC. 在达到稳定过程中 $h$ 中的气体体积变小, 压强变大, $f$ 中的气体体积变大。由于稳定时弹簧保持平衡状态, 故稳定时 $f 、 h$ 中的气体压强相等, 根据理想气体状态方程对 $h$ 气体分析可知\n$$\n\\frac{p_0 V_0}{T_0}=\\frac{p_{\\mathrm{h}} V_{\\mathrm{h}}}{T_{\\mathrm{h}}}\n$$\n联立可得\n$$\nT_{\\mathrm{f}}>T_{\\mathrm{h}}\n$$\nC 错误;\nD. 对弹簧、活塞及 $g$ 中的气体组成的系统分析, 根据平衡条件可知, $f$ 与 $h$ 中的气体压强相等, D 正确。故选 AD。",
+            "index": 173,
+            "score": 6,
+            "retrieved_results": [
+                [
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_7_0.png",
+                        "distance": 0.9095741510391235
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_12_0.png",
+                        "distance": 0.9026484489440918
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_40_0.png",
+                        "distance": 0.8790539503097534
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_42_0.png",
+                        "distance": 0.8778631687164307
+                    },
+                    {
+                        "retrieved_img": "../Data/2010-2023_Physics_MCQs/2010-2023_Physics_MCQs_5_0.png",
+                        "distance": 0.8759419322013855
+                    }
+                ]
+            ]
+        }
+    ]
+}
